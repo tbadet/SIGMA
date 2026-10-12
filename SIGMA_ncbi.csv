@@ -1,0 +1,1381 @@
+habitat,taxid,species,assembly,phylum,class,genus
+terrestrial,1498855,Amoeboaphelidium occidentale,GCA_023515795.1,Aphelidiomycota,Aphelidea,Amoeboaphelidium
+terrestrial,1243177,Amoeboaphelidium protococcarum,GCA_023515725.1,Aphelidiomycota,Aphelidea,Amoeboaphelidium
+terrestrial,2782525,Aphelidium insulamus,GCA_036784855.1,Aphelidiomycota,Aphelidea,Aphelidium
+marine,1202554,Cerataphis brasiliensis yeast-like symbiont,GCA_000372705.1,Ascomycota,NA,NA
+marine,69766,Penicillium capsulatum,GCA_000943765.1,Ascomycota,Eurotiomycetes,Penicillium
+marine,354353,Chrysoporthe austroafricana,GCA_001051155.2,Ascomycota,Sordariomycetes,Chrysoporthe
+marine,27321,Metschnikowia australis,GCA_002073855.1,Ascomycota,Pichiomycetes,Metschnikowia
+marine,1882900,Protomyces arabidopsidicola,GCA_003568695.1,Ascomycota,Taphrinomycetes,Protomyces
+marine,4952,Yarrowia lipolytica,GCA_003571375.1,Ascomycota,Dipodascomycetes,Yarrowia
+marine,4952,Yarrowia lipolytica,GCA_003571385.1,Ascomycota,Dipodascomycetes,Yarrowia
+marine,5580,Aureobasidium pullulans,GCA_003574545.1,Ascomycota,Dothideomycetes,Aureobasidium
+marine,91943,Hortaea werneckii,GCA_003704595.1,Ascomycota,Dothideomycetes,Hortaea
+marine,91943,Hortaea werneckii,GCA_003704645.1,Ascomycota,Dothideomycetes,Hortaea
+marine,91943,Hortaea werneckii,GCA_003704675.1,Ascomycota,Dothideomycetes,Hortaea
+marine,91943,Hortaea werneckii,GCA_003704685.1,Ascomycota,Dothideomycetes,Hortaea
+marine,2488754,Penicillium sp. SPG-F15,GCA_003800485.2,Ascomycota,Eurotiomycetes,Penicillium
+marine,2488753,Penicillium sp. SPG-F1,GCA_003800495.2,Ascomycota,Eurotiomycetes,Penicillium
+marine,1771980,Aureobasidium sp. P6,GCA_003992365.1,Ascomycota,Dothideomycetes,Aureobasidium
+marine,2305253,Taphrina sp. SM11,GCA_004000165.1,Ascomycota,Taphrinomycetes,Taphrina
+marine,101201,Trichoderma asperellum,GCA_004154885.1,Ascomycota,Sordariomycetes,Trichoderma
+marine,1884262,Aspergillus cejpii,GCA_004769165.1,Ascomycota,Eurotiomycetes,Aspergillus
+marine,104259,Penicillium brasilianum,GCA_004916855.1,Ascomycota,Eurotiomycetes,Penicillium
+marine,5580,Aureobasidium pullulans,GCA_004917665.1,Ascomycota,Dothideomycetes,Aureobasidium
+marine,5580,Aureobasidium pullulans,GCA_004917755.1,Ascomycota,Dothideomycetes,Aureobasidium
+marine,5580,Aureobasidium pullulans,GCA_004918165.1,Ascomycota,Dothideomycetes,Aureobasidium
+marine,5580,Aureobasidium pullulans,GCA_004918575.1,Ascomycota,Dothideomycetes,Aureobasidium
+marine,75750,Aspergillus sydowii,GCA_009828905.1,Ascomycota,Eurotiomycetes,Aspergillus
+marine,1052096,Cladosporium halotolerans,GCA_011745625.2,Ascomycota,Dothideomycetes,Cladosporium
+marine,46634,Aureobasidium melanogenum,GCA_014595575.1,Ascomycota,Dothideomycetes,Aureobasidium
+marine,91943,Hortaea werneckii,GCA_014843535.1,Ascomycota,Dothideomycetes,Hortaea
+marine,91943,Hortaea werneckii,GCA_014843615.1,Ascomycota,Dothideomycetes,Hortaea
+marine,2874188,Apiospora koreana,GCA_017163955.1,Ascomycota,Sordariomycetes,Apiospora
+marine,2043490,Fusarium sp. FW16.1,GCA_017654865.1,Ascomycota,Sordariomycetes,Fusarium
+marine,46634,Aureobasidium melanogenum,GCA_017949455.1,Ascomycota,Dothideomycetes,Aureobasidium
+marine,303698,Penicillium steckii,GCA_018340795.1,Ascomycota,Eurotiomycetes,Penicillium
+marine,2259629,Cladosporium sp. SW67,GCA_018703675.1,Ascomycota,Dothideomycetes,Cladosporium
+marine,335842,Apiospora saccharicola,GCA_019000065.1,Ascomycota,Sordariomycetes,Apiospora
+marine,45513,Lizanozyma spartinae,GCA_019049425.1,Ascomycota,Pichiomycetes,Lizanozyma
+marine,669026,Staphylotrichum longicolle,GCA_019096155.1,Ascomycota,Sordariomycetes,Staphylotrichum
+marine,1763456,Calycina marina,GCA_019669825.1,Ascomycota,Leotiomycetes,Calycina
+marine,45428,Amylocarpus encephaloides,GCA_019669835.1,Ascomycota,Leotiomycetes,Amylocarpus
+marine,2614577,Emericellopsis atlantica,GCA_019669845.1,Ascomycota,Sordariomycetes,Emericellopsis
+marine,2801328,Aspergillus sp. MEXU 27854,GCA_019721355.1,Ascomycota,Eurotiomycetes,Aspergillus
+marine,46634,Aureobasidium melanogenum,GCA_019915885.1,Ascomycota,Dothideomycetes,Aureobasidium
+marine,46634,Aureobasidium melanogenum,GCA_019925055.1,Ascomycota,Dothideomycetes,Aureobasidium
+marine,46634,Aureobasidium melanogenum,GCA_019925085.1,Ascomycota,Dothideomycetes,Aureobasidium
+marine,4929,Meyerozyma guilliermondii,GCA_020662405.1,Ascomycota,Pichiomycetes,Meyerozyma
+marine,2686198,Emericellopsis cladophorae,GCA_022114955.2,Ascomycota,Sordariomycetes,Emericellopsis
+marine,4929,Meyerozyma guilliermondii,GCA_022315155.1,Ascomycota,Pichiomycetes,Meyerozyma
+marine,339359,Zalerion maritima,GCA_022664585.2,Ascomycota,Sordariomycetes,Zalerion
+marine,2907238,Hortaea sp. C3G1500-4,GCA_022701445.1,Ascomycota,Dothideomycetes,Hortaea
+marine,2883503,Simplicillium sp. C3G150-2,GCA_022702485.1,Ascomycota,Sordariomycetes,Simplicillium
+marine,5061,Aspergillus niger,GCA_023509725.1,Ascomycota,Eurotiomycetes,Aspergillus
+marine,1070780,Aspergillus affinis,GCA_023601865.2,Ascomycota,Eurotiomycetes,Aspergillus
+marine,1042127,Aureobasidium subglaciale,GCA_024244275.1,Ascomycota,Dothideomycetes,Aureobasidium
+marine,4929,Meyerozyma guilliermondii,GCA_024499945.1,Ascomycota,Pichiomycetes,Meyerozyma
+marine,45524,Tardiomyces blankii,GCA_024734315.1,Ascomycota,Dipodascomycetes,Tardiomyces
+marine,91943,Hortaea werneckii,GCA_024760935.1,Ascomycota,Dothideomycetes,Hortaea
+marine,91943,Hortaea werneckii,GCA_024760945.1,Ascomycota,Dothideomycetes,Hortaea
+marine,91943,Hortaea werneckii,GCA_024760975.1,Ascomycota,Dothideomycetes,Hortaea
+marine,91943,Hortaea werneckii,GCA_024760995.1,Ascomycota,Dothideomycetes,Hortaea
+marine,91943,Hortaea werneckii,GCA_024761135.1,Ascomycota,Dothideomycetes,Hortaea
+marine,91943,Hortaea werneckii,GCA_024761265.1,Ascomycota,Dothideomycetes,Hortaea
+marine,91943,Hortaea werneckii,GCA_024761555.1,Ascomycota,Dothideomycetes,Hortaea
+marine,91943,Hortaea werneckii,GCA_024761585.1,Ascomycota,Dothideomycetes,Hortaea
+marine,91943,Hortaea werneckii,GCA_024761785.1,Ascomycota,Dothideomycetes,Hortaea
+marine,91943,Hortaea werneckii,GCA_024761805.1,Ascomycota,Dothideomycetes,Hortaea
+marine,91943,Hortaea werneckii,GCA_024761945.1,Ascomycota,Dothideomycetes,Hortaea
+marine,91943,Hortaea werneckii,GCA_024761965.1,Ascomycota,Dothideomycetes,Hortaea
+marine,91943,Hortaea werneckii,GCA_024761985.1,Ascomycota,Dothideomycetes,Hortaea
+marine,91943,Hortaea werneckii,GCA_024863865.1,Ascomycota,Dothideomycetes,Hortaea
+marine,46634,Aureobasidium melanogenum,GCA_025604605.1,Ascomycota,Dothideomycetes,Aureobasidium
+marine,2983310,Dothideomycetes sp. NU30,GCA_026013035.2,Ascomycota,Dothideomycetes,NA
+marine,643907,Cladosporium colombiae,GCA_026122715.1,Ascomycota,Dothideomycetes,Cladosporium
+marine,293381,Penicillium bialowiezense,GCA_026122735.1,Ascomycota,Eurotiomycetes,Penicillium
+marine,273371,Lodderomyces orthopsilosis,GCA_026650225.1,Ascomycota,Pichiomycetes,Lodderomyces
+marine,2901197,Candida sp. AC06,GCA_026724345.1,Ascomycota,Pichiomycetes,Candida
+marine,195108,Fusarium falciforme,GCA_026873545.1,Ascomycota,Sordariomycetes,Fusarium
+marine,2983309,Dothideomycetes sp. NU200,GCA_027943355.1,Ascomycota,Dothideomycetes,NA
+marine,2675883,Fusarium multiceps,GCA_028416715.1,Ascomycota,Sordariomycetes,Fusarium
+marine,1108849,Penicillium rubens,GCA_028751425.1,Ascomycota,Eurotiomycetes,Penicillium
+marine,4909,Pichia kudriavzevii,GCA_030264835.1,Ascomycota,Pichiomycetes,Pichia
+marine,2758378,Hypocreales sp. ML197-S3,GCA_033060795.1,Ascomycota,Sordariomycetes,NA
+marine,75750,Aspergillus sydowii,GCA_034192605.1,Ascomycota,Eurotiomycetes,Aspergillus
+marine,95740,Curvularia verruculosa,GCA_036172615.1,Ascomycota,Dothideomycetes,Curvularia
+marine,2823771,Parasarocladium wereldwijsianum,GCA_036250105.1,Ascomycota,Sordariomycetes,Parasarocladium
+marine,1069201,Aspergillus luchuensis,GCA_037074665.1,Ascomycota,Eurotiomycetes,Aspergillus
+marine,3113205,Penicillium sp. MYA5,GCA_037074905.1,Ascomycota,Eurotiomycetes,Penicillium
+marine,46634,Aureobasidium melanogenum,GCA_037950655.1,Ascomycota,Dothideomycetes,Aureobasidium
+marine,75750,Aspergillus sydowii,GCA_040113305.1,Ascomycota,Eurotiomycetes,Aspergillus
+marine,28576,Talaromyces variabilis,GCA_040333175.1,Ascomycota,Eurotiomycetes,Talaromyces
+marine,3234173,Sarcopodium sp. QM3-1,GCA_040938415.1,Ascomycota,Sordariomycetes,Sarcopodium
+marine,4929,Meyerozyma guilliermondii,GCA_041498835.1,Ascomycota,Pichiomycetes,Meyerozyma
+marine,2012036,Pichiaceae sp.,GCA_041498895.1,Ascomycota,Pichiomycetes,NA
+marine,33203,Purpureocillium lilacinum,GCA_042920535.1,Ascomycota,Sordariomycetes,Purpureocillium
+marine,36656,Penicillium crustosum,GCA_043643955.1,Ascomycota,Eurotiomycetes,Penicillium
+marine,3239297,Colletotrichum sp. CLE4,GCA_044063575.1,Ascomycota,Sordariomycetes,Colletotrichum
+marine,3108682,Talaromyces sp. DSF149,GCA_046115495.1,Ascomycota,Eurotiomycetes,Talaromyces
+marine,5482,Candida tropicalis,GCA_050230375.1,Ascomycota,Pichiomycetes,Candida
+marine,5482,Candida tropicalis,GCA_050230425.1,Ascomycota,Pichiomycetes,Candida
+marine,36022,Petasospora fabianii,GCA_050575385.1,Ascomycota,Saccharomycetes,Petasospora
+marine,1217787,Lecanora helva,GCA_050886345.1,Ascomycota,Lecanoromycetes,Lecanora
+marine,5059,Aspergillus flavus,GCA_050947185.1,Ascomycota,Eurotiomycetes,Aspergillus
+marine,374178,Meyerozyma carpophila,GCA_050947955.1,Ascomycota,Pichiomycetes,Meyerozyma
+marine,75750,Aspergillus sydowii,GCA_050948135.1,Ascomycota,Eurotiomycetes,Aspergillus
+marine,45513,Lizanozyma spartinae,GCA_051362435.1,Ascomycota,Pichiomycetes,Lizanozyma
+marine,46472,Aspergillus versicolor,GCA_051621845.1,Ascomycota,Eurotiomycetes,Aspergillus
+marine,1635095,Albophoma yamanashiensis,GCA_051623215.1,Ascomycota,Sordariomycetes,Albophoma
+marine,64636,Marquandomyces marquandii,GCA_051623235.1,Ascomycota,Sordariomycetes,Marquandomyces
+marine,51453,Trichoderma reesei,GCA_052818895.1,Ascomycota,Sordariomycetes,Trichoderma
+marine,4929,Meyerozyma guilliermondii,GCA_053894995.1,Ascomycota,Pichiomycetes,Meyerozyma
+marine,3381315,Paecilomyces sp. MCCF 150,GCA_054126675.1,Ascomycota,Eurotiomycetes,Paecilomyces
+marine,92988,Neophaeotheca triangularis,GCA_054600415.1,Ascomycota,Dothideomycetes,Neophaeotheca
+marine,92988,Neophaeotheca triangularis,GCA_054600435.1,Ascomycota,Dothideomycetes,Neophaeotheca
+marine,3468517,Dothideomycetes sp. NU459,GCA_054600455.1,Ascomycota,Dothideomycetes,NA
+marine,3468516,Neodevriesia sp. NU419,GCA_054600475.1,Ascomycota,Dothideomycetes,Neodevriesia
+marine,3468540,Dothideomycetes sp. NU197,GCA_054600495.1,Ascomycota,Dothideomycetes,NA
+marine,2024903,Zalaria obscura,GCA_054600555.1,Ascomycota,Dothideomycetes,Zalaria
+marine,3468515,Dothideomycetes sp. NU457,GCA_054600575.1,Ascomycota,Dothideomycetes,NA
+marine,3468514,Cladosporium sp. NU13,GCA_054600595.1,Ascomycota,Dothideomycetes,Cladosporium
+marine,3468513,Dothideomycetes sp. NU332,GCA_054600615.1,Ascomycota,Dothideomycetes,NA
+marine,3570217,Penicillium sp. BH-15,GCA_054643875.1,Ascomycota,Eurotiomycetes,Penicillium
+marine,3411435,Penicillium sp. DSF059,GCA_056824665.1,Ascomycota,Eurotiomycetes,Penicillium
+marine,948311,Fusarium proliferatum,GCA_058129285.1,Ascomycota,Sordariomycetes,Fusarium
+marine,1734004,Magnusiomyces fungicola,GCA_900654225.1,Ascomycota,Dipodascomycetes,Magnusiomyces
+marine,498019,Candidozyma auris,GCA_902703595.1,Ascomycota,Pichiomycetes,Candidozyma
+marine,498019,Candidozyma auris,GCA_902703725.1,Ascomycota,Pichiomycetes,Candidozyma
+marine,253628,Verruconis gallopava,GCA_937867525.1,Ascomycota,Dothideomycetes,Verruconis
+marine,1485229,Cadophora sp. DSE1049,GCA_937872245.1,Ascomycota,Leotiomycetes,Cadophora
+marine,1530391,uncultured Pleosporineae,GCA_937873565.1,Ascomycota,Dothideomycetes,NA
+marine,161743,Ramulispora sorghi f. maydis,GCA_963694915.1,Ascomycota,Dothideomycetes,Ramulispora
+marine,1756107,Phaeosphaeriaceae sp.,GCA_963974035.1,Ascomycota,Dothideomycetes,NA
+marine,1485229,Cadophora sp. DSE1049,GCA_963976495.1,Ascomycota,Leotiomycetes,Cadophora
+marine,63577,Trichoderma atroviride,GCA_982374845.1,Ascomycota,Sordariomycetes,Trichoderma
+marine,1052096,Cladosporium halotolerans,GCF_011745625.1,Ascomycota,Dothideomycetes,Cladosporium
+marine,45513,Lizanozyma spartinae,GCF_019049425.1,Ascomycota,Pichiomycetes,Lizanozyma
+marine,2614577,Emericellopsis atlantica,GCF_019669845.1,Ascomycota,Sordariomycetes,Emericellopsis
+marine,2686198,Emericellopsis cladophorae,GCF_022114955.1,Ascomycota,Sordariomycetes,Emericellopsis
+marine,1070780,Aspergillus affinis,GCF_023601865.1,Ascomycota,Eurotiomycetes,Aspergillus
+marine,195108,Fusarium falciforme,GCF_026873545.1,Ascomycota,Sordariomycetes,Fusarium
+terrestrial,43968,Aciculoconidium aculeatum,GCA_030579395.1,Ascomycota,Pichiomycetes,Aciculoconidium
+terrestrial,766039,Acidomyces richmondensis BFW,GCA_001592465.1,Ascomycota,Dothideomycetes,Acidomyces
+terrestrial,245562,Acidomyces sp. 'richmondensis',GCA_003545705.1,Ascomycota,Dothideomycetes,Acidomyces
+terrestrial,132109,Akanthomyces dipterigenus,GCA_030411515.1,Ascomycota,Sordariomycetes,Akanthomyces
+terrestrial,2714763,Akanthomyces lecanii,GCA_030411575.1,Ascomycota,Sordariomycetes,Akanthomyces
+terrestrial,111643,Alectoria sarmentosa,GCA_964255965.1,Ascomycota,Lecanoromycetes,Alectoria
+terrestrial,334518,Allantophomopsis lycopodina,GCA_024752465.1,Ascomycota,Leotiomycetes,Allantophomopsis
+terrestrial,156630,Alternaria arborescens,GCA_052110775.1,Ascomycota,Dothideomycetes,Alternaria
+terrestrial,48095,Alternaria dauci,GCA_042100115.1,Ascomycota,Dothideomycetes,Alternaria
+terrestrial,1187928,Alternaria incomplexa,GCA_024043165.1,Ascomycota,Dothideomycetes,Alternaria
+terrestrial,2896643,Alternaria sp. 'sect. Undifilum',GCA_024321975.1,Ascomycota,Dothideomycetes,Alternaria
+terrestrial,573041,Ambrosiella beaveri,GCA_030294605.1,Ascomycota,Sordariomycetes,Ambrosiella
+terrestrial,5101,Amorphotheca resinae,GCA_018167515.1,Ascomycota,Leotiomycetes,Amorphotheca
+terrestrial,326622,Annulohypoxylon moriforme,GCA_022695765.1,Ascomycota,Sordariomycetes,Annulohypoxylon
+terrestrial,990691,Apiospora rasikravindrae,GCA_038363885.1,Ascomycota,Sordariomycetes,Apiospora
+terrestrial,516989,Apodospora peruviana,GCA_033439685.1,Ascomycota,Sordariomycetes,Apodospora
+terrestrial,2080612,Arthothelium ruanum,GCA_964255825.1,Ascomycota,Arthoniomycetes,Arthothelium
+terrestrial,278025,Arxiozyma pintolopesii,GCA_030674285.1,Ascomycota,Saccharomycetes,Arxiozyma
+terrestrial,205686,Ascochyta lentis,GCA_022606885.1,Ascomycota,Dothideomycetes,Ascochyta
+terrestrial,1677696,Ascochyta viciae,GCA_004335155.1,Ascomycota,Dothideomycetes,Ascochyta
+terrestrial,487627,Ascochyta viciae-villosae,GCA_004335205.1,Ascomycota,Dothideomycetes,Ascochyta
+terrestrial,1016881,Ascocoryne sarcoides NRRL 50072,GCA_000328965.1,Ascomycota,Leotiomycetes,Ascocoryne
+terrestrial,487661,Aspergillus aculeatinus,GCA_016748025.1,Ascomycota,Eurotiomycetes,Aspergillus
+terrestrial,5053,Aspergillus aculeatus,GCA_039111485.1,Ascomycota,Eurotiomycetes,Aspergillus
+terrestrial,3014059,Aspergillus annui,GCA_047496425.1,Ascomycota,Eurotiomycetes,Aspergillus
+terrestrial,309746,Aspergillus awamori var. piceus,GCA_001599415.1,Ascomycota,Eurotiomycetes,Aspergillus
+terrestrial,176164,Aspergillus biplanus,GCA_027569045.1,Ascomycota,Eurotiomycetes,Aspergillus
+terrestrial,1810905,Aspergillus californicus,GCA_045785085.1,Ascomycota,Eurotiomycetes,Aspergillus
+terrestrial,1160497,Aspergillus glaucus CBS 516.65,GCF_001890805.1,Ascomycota,Eurotiomycetes,Aspergillus
+terrestrial,2484740,Aspergillus incahuasiensis,GCA_003719405.1,Ascomycota,Eurotiomycetes,Aspergillus
+terrestrial,1448312,Aspergillus japonicus CBS 114.51,GCA_003184785.1,Ascomycota,Eurotiomycetes,Aspergillus
+terrestrial,1353008,Aspergillus niger ATCC 13496,GCA_003344705.1,Ascomycota,Eurotiomycetes,Aspergillus
+terrestrial,1403190,Aspergillus parasiticus SU-1,GCA_000956085.1,Ascomycota,Eurotiomycetes,Aspergillus
+terrestrial,1353007,Aspergillus phoenicis ATCC 13157,GCA_003344505.1,Ascomycota,Eurotiomycetes,Aspergillus
+terrestrial,1517512,Aspergillus pseudoviridinutans,GCF_018340605.1,Ascomycota,Eurotiomycetes,Aspergillus
+terrestrial,396024,Aspergillus ruber,GCA_023621115.1,Ascomycota,Eurotiomycetes,Aspergillus
+terrestrial,482145,Aspergillus taichungensis,GCA_002850765.1,Ascomycota,Eurotiomycetes,Aspergillus
+terrestrial,1034304,Aspergillus transmontanensis,GCA_009193505.1,Ascomycota,Eurotiomycetes,Aspergillus
+terrestrial,5066,Aspergillus wentii,GCA_026184555.1,Ascomycota,Eurotiomycetes,Aspergillus
+terrestrial,2894282,Aureobasidium sp. EXF-12344,GCA_024195545.1,Ascomycota,Dothideomycetes,Aureobasidium
+terrestrial,2918936,Aureobasidium sp. TD-062,GCA_022575945.1,Ascomycota,Dothideomycetes,Aureobasidium
+terrestrial,2773716,Aureobasidium uvarum,GCA_903853725.1,Ascomycota,Dothideomycetes,Aureobasidium
+terrestrial,1629402,Barbatosphaeria neglecta,GCA_022813145.1,Ascomycota,Sordariomycetes,Barbatosphaeria
+terrestrial,53645,Barnettozyma populi,GCA_003706705.3,Ascomycota,Saccharomycetes,Barnettozyma
+terrestrial,2684613,Beauveria gryllotalpidicola,GCA_053540745.1,Ascomycota,Sordariomycetes,Beauveria
+terrestrial,409207,Beverwykella pulmonaria,GCA_001599595.1,Ascomycota,Dothideomycetes,Beverwykella
+terrestrial,1918533,Bipolaris sivanesaniana,GCA_055773965.2,Ascomycota,Dothideomycetes,Bipolaris
+terrestrial,44072,Blastobotrys aristatus,GCA_946409495.1,Ascomycota,Dipodascomycetes,Blastobotrys
+terrestrial,44068,Blastobotrys capitulatus,GCA_030564325.1,Ascomycota,Dipodascomycetes,Blastobotrys
+terrestrial,64416,Blastobotrys petasosporus,GCA_030580095.1,Ascomycota,Dipodascomycetes,Trichomonascus
+terrestrial,2867405,Blumeria hordei,GCA_900237765.1,Ascomycota,Leotiomycetes,Blumeria
+terrestrial,283295,Bryoria fremontii,GCA_964254905.1,Ascomycota,Lecanoromycetes,Bryoria
+terrestrial,1485229,Cadophora sp. DSE1049,GCA_003073865.1,Ascomycota,Leotiomycetes,Cadophora
+terrestrial,2064830,Calonectria montana,GCA_022606435.1,Ascomycota,Sordariomycetes,Calonectria
+terrestrial,707572,Calonectria pseudoreteaudii,GCA_001879505.1,Ascomycota,Sordariomycetes,Calonectria
+terrestrial,1763456,Calycina marina,GCA_019669825.1,Ascomycota,Leotiomycetes,Calycina
+terrestrial,1094992,Candida albicans P37037,GCA_000773825.1,Ascomycota,Pichiomycetes,Candida
+terrestrial,1094993,Candida albicans P37039,GCA_000784515.1,Ascomycota,Pichiomycetes,Candida
+terrestrial,148634,Candida neerlandica,GCA_030557875.1,Ascomycota,Pichiomycetes,Candida
+terrestrial,434046,Candida tetrigidarum,GCA_030557055.1,Ascomycota,Pichiomycetes,Candida
+terrestrial,5482,Candida tropicalis,GCA_023623415.1,Ascomycota,Pichiomycetes,Candida
+terrestrial,1182542,Capronia epimyces CBS 606.96,GCA_000585565.1,Ascomycota,Eurotiomycetes,Capronia
+terrestrial,2019549,Ceratocystis huliohia,GCA_038382885.1,Ascomycota,Sordariomycetes,Ceratocystis
+terrestrial,135779,Cercospora zeae-maydis,GCA_023512815.1,Ascomycota,Dothideomycetes,Cercospora
+terrestrial,2939516,Chaetomiaceae sp. PF1801,GCA_023628475.1,Ascomycota,Sordariomycetes,NA
+terrestrial,54693,Chlorociboria aeruginosa,GCA_040112785.1,Ascomycota,Leotiomycetes,Chlorociboria
+terrestrial,2745882,Chrysosphaeria jannelii,GCA_020002325.1,Ascomycota,Sordariomycetes,Chrysosphaeria
+terrestrial,111670,Cladonia rangiferina,GCA_964254875.1,Ascomycota,Lecanoromycetes,Cladonia
+terrestrial,408822,Cladophialophora minutissima,GCA_056513135.1,Ascomycota,Eurotiomycetes,Cladophialophora
+terrestrial,2860122,Cladosporiales sp.,GCA_024708745.1,Ascomycota,Dothideomycetes,NA
+terrestrial,887085,Cladosporium asperulatum,GCA_052324025.1,Ascomycota,Dothideomycetes,Cladosporium
+terrestrial,166633,Cladosporium cucumerinum,GCA_022560005.1,Ascomycota,Dothideomycetes,Cladosporium
+terrestrial,1052093,Cladosporium fusiforme,GCA_052576345.1,Ascomycota,Dothideomycetes,Cladosporium
+terrestrial,1116209,Cladosporium phlei,GCA_003614995.1,Ascomycota,Dothideomycetes,Cladosporium
+terrestrial,2562440,Cladosporium sp. IMV 00045,GCA_001931905.2,Ascomycota,Dothideomycetes,Cladosporium
+terrestrial,2978604,Cladosporium sp. MBC 237,GCA_030772445.1,Ascomycota,Dothideomycetes,Cladosporium
+terrestrial,3232285,Cladosporium sp. ZJUC115,GCA_052324105.1,Ascomycota,Dothideomycetes,Cladosporium
+terrestrial,2036908,Clarireedia jacksonii,GCA_026225995.1,Ascomycota,Leotiomycetes,Clarireedia
+terrestrial,2559230,Claviceps sp. Clav32 group G5,GCA_022286875.1,Ascomycota,Sordariomycetes,Claviceps
+terrestrial,1349383,Clonostachys rosea f. rosea IK726,GCA_902827195.2,Ascomycota,Sordariomycetes,Clonostachys
+terrestrial,160281,Clonostachys solani,GCA_902141235.2,Ascomycota,Sordariomycetes,Clonostachys
+terrestrial,1634537,Coccinonectria pachysandricola,GCA_003693555.1,Ascomycota,Sordariomycetes,Coccinonectria
+terrestrial,34406,Colletotrichum destructivum,GCA_009900065.1,Ascomycota,Sordariomycetes,Colletotrichum
+terrestrial,759273,Colletotrichum higginsianum IMI 349063,GCA_001672515.1,Ascomycota,Sordariomycetes,Colletotrichum
+terrestrial,1585795,Colletotrichum lentis,GCA_003386485.1,Ascomycota,Sordariomycetes,Colletotrichum
+terrestrial,328473,Colletotrichum sansevieriae,GCA_002749775.1,Ascomycota,Sordariomycetes,Colletotrichum
+terrestrial,2838799,Colletotrichum sp. SAR 10_76,GCA_025327145.1,Ascomycota,Sordariomycetes,Colletotrichum
+terrestrial,1209068,Colletotrichum tabaci,GCA_036851105.1,Ascomycota,Sordariomycetes,Colletotrichum
+terrestrial,1306861,Colletotrichum tanaceti,GCA_005350895.1,Ascomycota,Sordariomycetes,Colletotrichum
+terrestrial,61459,Coniosporium apollinis,GCA_030247865.1,Ascomycota,Dothideomycetes,Coniosporium
+terrestrial,45847,Cordyceps tenuipes,GCA_003025305.1,Ascomycota,Sordariomycetes,Cordyceps
+terrestrial,190048,Corynascus sepedonium,GCA_041956455.1,Ascomycota,Sordariomycetes,Corynascus
+terrestrial,331657,Cryomyces minteri,GCA_005059845.1,Ascomycota,Dothideomycetes,Cryomyces
+terrestrial,2093782,Cryphonectria japonica,GCA_014849835.1,Ascomycota,Sordariomycetes,Cryphonectria
+terrestrial,660469,Cryphonectria parasitica EP155,GCA_011745365.1,Ascomycota,Sordariomycetes,Cryphonectria
+terrestrial,578113,Cytospora mali,GCA_000818155.1,Ascomycota,Sordariomycetes,Cytospora
+terrestrial,148098,Debaryomyces prosopidis,GCA_030578795.1,Ascomycota,Pichiomycetes,Debaryomyces
+terrestrial,2940384,Debaryomycetaceae sp. Y9007B,GCA_023625735.1,Ascomycota,Pichiomycetes,NA
+terrestrial,3034288,Debaryomycetaceae sp. ZIM 2471,GCA_031081905.1,Ascomycota,Pichiomycetes,NA
+terrestrial,626713,Diaporthe aspalathi,GCA_001447215.1,Ascomycota,Sordariomycetes,Diaporthe
+terrestrial,1365815,Diaporthe citriasiana,GCA_016432825.1,Ascomycota,Sordariomycetes,Diaporthe
+terrestrial,83184,Diaporthe eres,GCA_022225955.2,Ascomycota,Sordariomycetes,Diaporthe
+terrestrial,158607,Diaporthe helianthi,GCA_001702395.2,Ascomycota,Sordariomycetes,Diaporthe
+terrestrial,2748660,Diaporthe sp. HANT25,GCA_013435955.1,Ascomycota,Sordariomycetes,Diaporthe
+terrestrial,83478,Dibaeis baeomyces,GCA_964254685.1,Ascomycota,Lecanoromycetes,Dibaeis
+terrestrial,2704139,Diddensiella santjacobensis,GCA_030574215.1,Ascomycota,Dipodascomycetes,Diddensiella
+terrestrial,749598,Didymella arachidicola,GCA_016630955.3,Ascomycota,Dothideomycetes,Didymella
+terrestrial,2021029,Didymella segeticola,GCA_004522025.1,Ascomycota,Dothideomycetes,Didymella
+terrestrial,236234,Diplodia corticola,GCA_001883845.1,Ascomycota,Dothideomycetes,Diplodia
+terrestrial,27313,Dipodascopsis uninucleata,GCA_038497775.1,Ascomycota,Lipomycetes,Dipodascopsis
+terrestrial,5481,Diutina rugosa,GCA_030556535.1,Ascomycota,Pichiomycetes,Diutina
+terrestrial,3092748,Diutina sp. Y7414,GCA_037042415.1,Ascomycota,Pichiomycetes,Diutina
+terrestrial,675120,Dothistroma septosporum NZE10,GCA_000340195.1,Ascomycota,Dothideomycetes,Dothistroma
+terrestrial,40998,Elsinoe australis,GCA_005382375.1,Ascomycota,Dothideomycetes,Elsinoe
+terrestrial,2135915,Emmonsiellopsis sp. PD_33,GCA_032988165.1,Ascomycota,Eurotiomycetes,Emmonsiellopsis
+terrestrial,877507,Epichloe festucae Fl1,GCA_003814445.1,Ascomycota,Sordariomycetes,Epichloe
+terrestrial,2591900,Epichloe inebrians,GCA_046863545.1,Ascomycota,Sordariomycetes,Epichloe
+terrestrial,2021037,Epicoccum latusicollum,GCA_015266435.1,Ascomycota,Dothideomycetes,Epicoccum
+terrestrial,1392243,Eremomyces bilateralis CBS 781.70,GCA_010015585.1,Ascomycota,Dothideomycetes,Eremomyces
+terrestrial,225359,Erysiphe pulchra,GCA_002918395.1,Ascomycota,Leotiomycetes,Erysiphe
+terrestrial,2006383,Escovopsis sp. Ae724,GCA_003055165.1,Ascomycota,Sordariomycetes,Escovopsis
+terrestrial,2006384,Escovopsis sp. TC,GCA_003055185.1,Ascomycota,Sordariomycetes,Escovopsis
+terrestrial,150374,Escovopsis weberi,GCA_001278495.1,Ascomycota,Sordariomycetes,Escovopsis
+terrestrial,215243,Exophiala oligosperma,GCA_036872695.1,Ascomycota,Eurotiomycetes,Exophiala
+terrestrial,2710536,Furcasterigmium furcatum,GCA_001599815.1,Ascomycota,Sordariomycetes,Furcasterigmium
+terrestrial,3092739,Furcasterigmium sp. R96-07A1,GCA_037042015.1,Ascomycota,Sordariomycetes,Furcasterigmium
+terrestrial,48485,Fusarium anthophilum,GCA_013364935.1,Ascomycota,Sordariomycetes,Fusarium
+terrestrial,2494460,Fusarium arcuatisporum,GCA_049901675.1,Ascomycota,Sordariomycetes,Fusarium
+terrestrial,679435,Fusarium armeniacum,GCA_013618295.1,Ascomycota,Sordariomycetes,Fusarium
+terrestrial,48487,Fusarium begoniae,GCA_013186755.1,Ascomycota,Sordariomycetes,Fusarium
+terrestrial,1041577,Fusarium burgessii,GCA_002980515.1,Ascomycota,Sordariomycetes,Fusarium
+terrestrial,569362,Fusarium gerlachii,GCA_017656845.1,Ascomycota,Sordariomycetes,Fusarium
+terrestrial,229533,Fusarium graminearum PH-1,GCA_000240135.3,Ascomycota,Sordariomycetes,Fusarium
+terrestrial,751941,Fusarium mexicanum,GCA_013396015.1,Ascomycota,Sordariomycetes,Fusarium
+terrestrial,2502993,Fusarium nirenbergiae,GCA_051107415.1,Ascomycota,Sordariomycetes,Fusarium
+terrestrial,2012860,Fusarium oxysporum f. sp. nicotianae,GCA_002233785.1,Ascomycota,Sordariomycetes,Fusarium
+terrestrial,120297,Fusarium oxysporum f. sp. niveum,GCA_019721175.1,Ascomycota,Sordariomycetes,Fusarium
+terrestrial,1080344,Fusarium oxysporum f. sp. pisi HDV247,GCA_000260075.2,Ascomycota,Sordariomycetes,Fusarium
+terrestrial,96318,Fusarium oxysporum f. sp. raphani,GCA_019157275.1,Ascomycota,Sordariomycetes,Fusarium
+terrestrial,986114,Fusarium pseudensiforme,GCA_057674445.1,Ascomycota,Sordariomycetes,Fusarium
+terrestrial,1028729,Fusarium pseudograminearum CS3096,GCF_000303195.2,Ascomycota,Sordariomycetes,Fusarium
+terrestrial,2874508,Fusarium sp. FIESC RH6,GCA_022627095.1,Ascomycota,Sordariomycetes,Fusarium
+terrestrial,2806465,Fusarium sp. FSAMSC_23,GCA_013618385.1,Ascomycota,Sordariomycetes,Fusarium
+terrestrial,2729611,Fusarium sp. NRRL 66894,GCA_014824365.1,Ascomycota,Sordariomycetes,Fusarium
+terrestrial,1235837,Fusarium tupiense,GCA_013364945.1,Ascomycota,Sordariomycetes,Fusarium
+terrestrial,2747968,Fusarium vanettenii,GCA_025433535.2,Ascomycota,Sordariomycetes,Fusarium
+terrestrial,2082529,Fusarium zanthoxyli,GCA_013623745.1,Ascomycota,Sordariomycetes,Fusarium
+terrestrial,468836,Gamszarea kalimantanensis,GCA_022813335.1,Ascomycota,Sordariomycetes,Gamszarea
+terrestrial,68827,Geosmithia putterillii,GCA_900188575.1,Ascomycota,Sordariomycetes,Geosmithia
+terrestrial,485427,Geotrichum bryndzae,GCA_025605225.1,Ascomycota,Dipodascomycetes,Geotrichum
+terrestrial,45569,Glucitozyma multigemmis,GCA_030572295.1,Ascomycota,Pichiomycetes,Kurtzmaniella
+terrestrial,3130160,Gnomoniopsis sp. YN0743,GCA_055474405.1,Ascomycota,Sordariomycetes,Gnomoniopsis
+terrestrial,432099,Grigorovia yakushimaensis,GCA_003709265.2,Ascomycota,Saccharomycetes,Grigorovia
+terrestrial,360152,Grosmannia serpens,GCA_029299595.1,Ascomycota,Sordariomycetes,Grosmannia
+terrestrial,3120226,Gyromitra sp. 'persicula',GCA_040802825.1,Ascomycota,Pezizomycetes,Gyromitra
+terrestrial,3063974,Gyromitra sp. 6 AD-2023,GCA_040803805.1,Ascomycota,Pezizomycetes,Gyromitra
+terrestrial,1246595,Hanseniaspora uvarum DSM 2768,GCA_000968475.1,Ascomycota,Saccharomycetes,Hanseniaspora
+terrestrial,2059318,Histoplasma mississippiense,GCA_000149585.1,Ascomycota,Eurotiomycetes,Histoplasma
+terrestrial,2482757,Hyaloscypha variabilis,GCA_054948865.1,Ascomycota,Leotiomycetes,Hyaloscypha
+terrestrial,47195,Hydnotrya tulasnei,GCA_040802865.1,Ascomycota,Pezizomycetes,Hydnotrya
+terrestrial,1735279,Hymenoscyphus salicellus,GCA_001414355.1,Ascomycota,Leotiomycetes,Hymenoscyphus
+terrestrial,2487000,Hypomontagnella monticulosa,GCA_902806465.1,Ascomycota,Sordariomycetes,Hypomontagnella
+terrestrial,2663366,Hypoxylon sp. NC1633,GCA_022984935.1,Ascomycota,Sordariomycetes,Hypoxylon
+terrestrial,314043,Immersiella caudata,GCA_030512335.1,Ascomycota,Sordariomycetes,Immersiella
+terrestrial,1276217,Immersiporthe knoxdaviesiana,GCA_021117315.1,Ascomycota,Sordariomycetes,Immersiporthe
+terrestrial,74404,Kazachstania martiniae,GCA_003708925.3,Ascomycota,Saccharomycetes,Kazachstania
+terrestrial,655095,Kazachstania taianensis,GCA_003708865.2,Ascomycota,Saccharomycetes,Kazachstania
+terrestrial,45595,Kodamaea suecica,GCA_030558315.1,Ascomycota,Pichiomycetes,Kodamaea
+terrestrial,36040,Komagataea pratensis,GCA_003707865.2,Ascomycota,Saccharomycetes,Barnettozyma
+terrestrial,1099808,Komagataella populi,GCA_003705255.3,Ascomycota,Pichiomycetes,Komagataella
+terrestrial,29831,Lachancea cidri,GCA_947297695.1,Ascomycota,Saccharomycetes,Lachancea
+terrestrial,1072105,Lachancea dasiensis,GCA_900074725.1,Ascomycota,Saccharomycetes,Lachancea
+terrestrial,2283846,Lachnum nothofagi,GCA_003988875.1,Ascomycota,Leotiomycetes,Lachnum
+terrestrial,2939533,Lecanicillium sp. S3808,GCA_023628775.1,Ascomycota,Sordariomycetes,Lecanicillium
+terrestrial,2011672,Lecanorales sp.,GCA_964254455.1,Ascomycota,Lecanoromycetes,NA
+terrestrial,1709937,Lecanoromycetes sp.,GCA_964254985.1,Ascomycota,Lecanoromycetes,NA
+terrestrial,2040845,Lepraria sp.,GCA_937857285.1,Ascomycota,Lecanoromycetes,Lepraria
+terrestrial,586073,Leptogium corticola,GCA_964256315.1,Ascomycota,Lecanoromycetes,Leptogium
+terrestrial,2884725,Leucodermia leucomelos,GCA_964257595.1,Ascomycota,Lecanoromycetes,Leucodermia
+terrestrial,2691128,Lichinales sp.,GCA_964255385.1,Ascomycota,Lichinomycetes,NA
+terrestrial,56873,Lipomyces spencermartinsiae,GCA_030568255.1,Ascomycota,Lipomycetes,Lipomyces
+terrestrial,147567,Lojkania enalia,GCA_010094045.1,Ascomycota,Dothideomycetes,Lojkania
+terrestrial,690887,Lophiotrema nucula,GCA_010015825.1,Ascomycota,Dothideomycetes,Lophiotrema
+terrestrial,1126212,Macrophomina phaseolina MS6,GCA_000302655.1,Ascomycota,Dothideomycetes,Macrophomina
+terrestrial,3040901,Macrophomina sp. 242773,GCA_047728855.1,Ascomycota,Dothideomycetes,Macrophomina
+terrestrial,1157608,Madurella fahalii,GCA_029876055.1,Ascomycota,Sordariomycetes,Madurella
+terrestrial,1896173,Mariannaea sp. PMI_226,GCA_024336345.1,Ascomycota,Sordariomycetes,Mariannaea
+terrestrial,640839,Maudiozyma pseudohumilis,GCA_030579215.1,Ascomycota,Saccharomycetes,Maudiozyma
+terrestrial,2596975,Metarhizium humberi,GCA_020102295.1,Ascomycota,Sordariomycetes,Metarhizium
+terrestrial,2576851,Metschnikowia amazonensis,GCA_008065205.1,Ascomycota,Pichiomycetes,Metschnikowia
+terrestrial,473035,Metschnikowia colocasiae,GCA_030562555.1,Ascomycota,Pichiomycetes,Metschnikowia
+terrestrial,73520,Metschnikowia hibisci,GCA_002374725.1,Ascomycota,Pichiomycetes,Metschnikowia
+terrestrial,164924,Metschnikowia koreensis,GCA_030569435.1,Ascomycota,Pichiomycetes,Metschnikowia
+terrestrial,301368,Metschnikowia mauinuiana,GCA_002370755.1,Ascomycota,Pichiomycetes,Metschnikowia
+terrestrial,261282,Metschnikowia pimensis,GCA_030556455.1,Ascomycota,Pichiomycetes,Metschnikowia
+terrestrial,2897820,Metschnikowia sp. yHQL527,GCA_030578455.1,Ascomycota,Pichiomycetes,Metschnikowia
+terrestrial,1091232,Meyerozyma caribbica MG20W,GCA_000755205.1,Ascomycota,Pichiomycetes,Meyerozyma
+terrestrial,766056,Microcyclospora tardicrescens,GCA_003012245.1,Ascomycota,Dothideomycetes,Microcyclospora
+terrestrial,2728926,Mollisiaceae sp. DMI_Dod_QoI,GCA_009613015.1,Ascomycota,Leotiomycetes,NA
+terrestrial,1168546,Myriangium duriaei CBS 260.36,GCA_010093895.1,Ascomycota,Dothideomycetes,Myriangium
+terrestrial,273131,Nakaseomyces bracarensis,GCA_037041435.1,Ascomycota,Saccharomycetes,Nakaseomyces
+terrestrial,1461596,Neobulgaria alba,GCA_003988965.1,Ascomycota,Leotiomycetes,Neobulgaria
+terrestrial,78410,Neonectria ditissima,GCA_056582445.1,Ascomycota,Sordariomycetes,Neonectria
+terrestrial,979145,Neonectria punicea,GCA_003385315.1,Ascomycota,Sordariomycetes,Neonectria
+terrestrial,1562195,Neopestalotiopsis formicidarum,GCA_049996555.1,Ascomycota,Sordariomycetes,Neopestalotiopsis
+terrestrial,108428,Neoscytalidium dimidiatum,GCA_037367355.1,Ascomycota,Dothideomycetes,Neoscytalidium
+terrestrial,3416937,Neurospora sp. E-DF1,GCA_055755555.1,Ascomycota,Sordariomycetes,Neurospora
+terrestrial,946187,Neurospora sp. FGSC 6877,GCA_009805295.1,Ascomycota,Sordariomycetes,Neurospora
+terrestrial,2022765,Nigrospora rubi,GCA_048773245.1,Ascomycota,Sordariomycetes,Nigrospora
+terrestrial,749835,Nothophoma quercina,GCA_021642125.2,Ascomycota,Dothideomycetes,Nothophoma
+terrestrial,1937702,Ogataea haglerorum,GCA_019206905.1,Ascomycota,Pichiomycetes,Ogataea
+terrestrial,51923,Ogataea pignaliae,GCA_030570775.1,Ascomycota,Pichiomycetes,Ogataea
+terrestrial,2135917,Onygenales sp. PD_10,GCA_032988465.1,Ascomycota,Eurotiomycetes,NA
+terrestrial,2306442,Ophiostoma australiae,GCA_022392945.1,Ascomycota,Sordariomycetes,Ophiostoma
+terrestrial,2917766,Ophiostoma cf. undulatum,GCA_022392935.1,Ascomycota,Sordariomycetes,Ophiostoma
+terrestrial,61193,Ophiostoma himal-ulmi,GCA_029299165.1,Ascomycota,Sordariomycetes,Ophiostoma
+terrestrial,756982,Orbilia oligospora ATCC 24927,GCA_000225545.1,Ascomycota,Orbiliomycetes,Orbilia
+terrestrial,1656924,Oxnerella safavidiorum,GCA_964257185.1,Ascomycota,Lecanoromycetes,Oxnerella
+terrestrial,644134,Paecilomyces dactylethromorphus,GCA_043882455.1,Ascomycota,Eurotiomycetes,Paecilomyces
+terrestrial,89137,Paecilomyces fulvus,GCA_029606305.1,Ascomycota,Eurotiomycetes,Paecilomyces
+terrestrial,2762668,Paracamarosporium sp. OC-R06-R3,GCA_019828545.1,Ascomycota,Dothideomycetes,Paracamarosporium
+terrestrial,2486200,Paracoccidioides sp. 'americana',GCA_056247895.1,Ascomycota,Eurotiomycetes,Paracoccidioides
+terrestrial,3569414,Paracoccidioides venezuelensis (nom. inval.),GCA_056247735.1,Ascomycota,Eurotiomycetes,Paracoccidioides
+terrestrial,273506,Paragyromitra infula,GCA_040803915.1,Ascomycota,Pezizomycetes,Paragyromitra
+terrestrial,1211002,Parastagonospora nodorum Sn79,GCA_002216185.1,Ascomycota,Dothideomycetes,Parastagonospora
+terrestrial,1429867,Penicillium camemberti FM 013,GCA_000513335.1,Ascomycota,Eurotiomycetes,Penicillium
+terrestrial,2972119,Penicillium cf. viridicatum,GCA_028974045.1,Ascomycota,Eurotiomycetes,Penicillium
+terrestrial,70096,Penicillium cinerascens,GCA_028974065.1,Ascomycota,Eurotiomycetes,Penicillium
+terrestrial,40296,Penicillium italicum,GCA_002116305.1,Ascomycota,Eurotiomycetes,Penicillium
+terrestrial,94218,Penicillium lagena,GCF_028827675.1,Ascomycota,Eurotiomycetes,Penicillium
+terrestrial,1131562,Penicillium pancosmium,GCA_902713525.1,Ascomycota,Eurotiomycetes,Penicillium
+terrestrial,68879,Penicillium paneum,GCA_051521465.1,Ascomycota,Eurotiomycetes,Penicillium
+terrestrial,1903569,Penicillium riverlandense,GCA_028828495.1,Ascomycota,Eurotiomycetes,Penicillium
+terrestrial,2066501,Penicillium sp. CF01,GCA_005250745.2,Ascomycota,Eurotiomycetes,Penicillium
+terrestrial,3115216,Penicillium sp. F51,GCA_037356495.1,Ascomycota,Eurotiomycetes,Penicillium
+terrestrial,2138086,Penicillium sp. W3 MMC-2018,GCA_004959885.1,Ascomycota,Eurotiomycetes,Penicillium
+terrestrial,173182,Pestalotiopsis disseminata,GCA_055824565.1,Ascomycota,Sordariomycetes,Pestalotiopsis
+terrestrial,173184,Pestalotiopsis neglecta,GCA_030412595.1,Ascomycota,Sordariomycetes,Pestalotiopsis
+terrestrial,1587512,Pestalotiopsis sp. CR013,GCA_018092615.1,Ascomycota,Sordariomycetes,Pestalotiopsis
+terrestrial,53493,Petasospora meyerae,GCA_030462915.1,Ascomycota,Saccharomycetes,Cyberlindnera
+terrestrial,2996543,Pewenomyces lalenivora,GCA_041260115.1,Ascomycota,Eurotiomycetes,Pewenomyces
+terrestrial,1663500,Pezicula radicicola,GCA_003008705.1,Ascomycota,Leotiomycetes,Pezicula
+terrestrial,2821754,Phaeosphaeria sp. MPI-PUGE-AT-0046c,GCA_020747045.1,Ascomycota,Dothideomycetes,Phaeosphaeria
+terrestrial,54194,Phaffomyces opuntiae,GCA_003707165.2,Ascomycota,Saccharomycetes,Phaffomyces
+terrestrial,115786,Phaffomyces orbus,GCA_003708145.3,Ascomycota,Saccharomycetes,Phaffomyces
+terrestrial,54046,Phaffomyces thermotolerans,GCA_003707215.2,Ascomycota,Saccharomycetes,Phaffomyces
+terrestrial,2107956,Physcia sp.,GCA_937840595.1,Ascomycota,Lecanoromycetes,Physcia
+terrestrial,53658,Pichia pseudocactophila,GCA_030580035.1,Ascomycota,Pichiomycetes,Pichia
+terrestrial,40658,Plectosphaerella cucumerina,GCA_014635965.1,Ascomycota,Sordariomycetes,Plectosphaerella
+terrestrial,1408161,Plenodomus tracheiphilus IPT5,GCA_010093695.1,Ascomycota,Dothideomycetes,Plenodomus
+terrestrial,3414986,Pleurotheciella sp. MK-2025a,GCA_051996655.1,Ascomycota,Sordariomycetes,Pleurotheciella
+terrestrial,321146,Pseudocercospora eumusae,GCA_001578235.1,Ascomycota,Dothideomycetes,Pseudocercospora
+terrestrial,1873960,Pseudocercospora fijiensis,GCA_011057605.1,Ascomycota,Dothideomycetes,Pseudocercospora
+terrestrial,44623,Pseudodiscina melaleucoides,GCA_040804125.1,Ascomycota,Pezizomycetes,Pseudodiscina
+terrestrial,3342545,Pseudogymnoascus australis,GCA_048593815.1,Ascomycota,Leotiomycetes,Pseudogymnoascus
+terrestrial,655981,Pseudogymnoascus destructans,GCA_056956955.1,Ascomycota,Leotiomycetes,Pseudogymnoascus
+terrestrial,3342546,Pseudogymnoascus griseus,GCA_057612645.1,Ascomycota,Leotiomycetes,Pseudogymnoascus
+terrestrial,1622148,Pseudogymnoascus sp. 03VT05,GCA_001662645.1,Ascomycota,Leotiomycetes,Pseudogymnoascus
+terrestrial,1671306,Pseudophaeomoniella oleicola,GCA_003868215.1,Ascomycota,Eurotiomycetes,Pseudophaeomoniella
+terrestrial,3058877,Pyrenodesmia sp. 3 TL-2023,GCA_051941895.1,Ascomycota,Lecanoromycetes,Pyrenodesmia
+terrestrial,3060298,Pyrenula sp. 1 TL-2023,GCA_052059035.1,Ascomycota,Eurotiomycetes,Pyrenula
+terrestrial,1405377,Pyricularia oryzae HN19311,GCA_000475075.1,Ascomycota,Sordariomycetes,Pyricularia
+terrestrial,45341,Raffaelea albimanens,GCA_002778245.1,Ascomycota,Sordariomycetes,Raffaelea
+terrestrial,2840254,Ramalina petrina,GCA_964257245.1,Ascomycota,Lecanoromycetes,Ramalina
+terrestrial,475927,Ramularia coccinea,GCA_013461505.1,Ascomycota,Dothideomycetes,Ramularia
+terrestrial,112498,Ramularia collo-cygni,GCF_900074925.1,Ascomycota,Dothideomycetes,Ramularia
+terrestrial,3414291,Rhamphoriopsis denticulata,GCA_051996575.1,Ascomycota,Sordariomycetes,Rhamphoriopsis
+terrestrial,1634500,Rugonectria neobalansae,GCA_045529385.1,Ascomycota,Sordariomycetes,Rugonectria
+terrestrial,88742,Rusavskia elegans,GCA_051941435.1,Ascomycota,Lecanoromycetes,Rusavskia
+terrestrial,706196,Saccharomyces arboricola,GCA_918268255.1,Ascomycota,Saccharomycetes,Saccharomyces
+terrestrial,471859,Saccharomyces cerevisiae T73,GCA_000209305.1,Ascomycota,Saccharomycetes,Saccharomyces
+terrestrial,1684324,Saccharomyces cerevisiae x Saccharomyces eubayanus,GCA_009666085.1,Ascomycota,Saccharomycetes,Saccharomyces
+terrestrial,1294343,Saccharomyces cerevisiae YJM1273,GCA_000976995.2,Ascomycota,Saccharomycetes,Saccharomyces
+terrestrial,1294361,Saccharomyces cerevisiae YJM1389,GCA_000977535.2,Ascomycota,Saccharomycetes,Saccharomyces
+terrestrial,1294367,Saccharomyces cerevisiae YJM1417,GCA_000977715.4,Ascomycota,Saccharomycetes,Saccharomyces
+terrestrial,1294368,Saccharomyces cerevisiae YJM1418,GCA_000977745.2,Ascomycota,Saccharomycetes,Saccharomyces
+terrestrial,1294370,Saccharomyces cerevisiae YJM1433,GCA_000977805.2,Ascomycota,Saccharomycetes,Saccharomyces
+terrestrial,1163634,Saccharomyces kudriavzevii FM1057,GCA_000256745.1,Ascomycota,Saccharomycetes,Saccharomyces
+terrestrial,635123,Saturnispora sekii,GCA_030563565.1,Ascomycota,Pichiomycetes,Saturnispora
+terrestrial,4897,Schizosaccharomyces japonicus,GCA_032883015.1,Ascomycota,Schizosaccharomycetes,Schizosaccharomyces
+terrestrial,4896,Schizosaccharomyces pombe,GCA_003086255.1,Ascomycota,Schizosaccharomycetes,Schizosaccharomyces
+terrestrial,4896,Schizosaccharomyces pombe,GCA_000002945.3,Ascomycota,Schizosaccharomycetes,Schizosaccharomyces
+terrestrial,4896,Schizosaccharomyces pombe,GCF_000002945.2,Ascomycota,Schizosaccharomycetes,Schizosaccharomyces
+terrestrial,4896,Schizosaccharomyces pombe,GCA_023078545.1,Ascomycota,Schizosaccharomycetes,Schizosaccharomyces
+terrestrial,3385844,Schizothecium sp. GE-2024p,GCA_050706125.1,Ascomycota,Sordariomycetes,Schizothecium
+terrestrial,3415310,Schizothecium sp. PSN970A-sp1,GCA_050709495.1,Ascomycota,Sordariomycetes,Schizothecium
+terrestrial,58908,Scleromitrula shiraiana,GCA_028455995.1,Ascomycota,Leotiomycetes,Scleromitrula
+terrestrial,107579,Sclerotinia subarctica,GCA_025389085.1,Ascomycota,Leotiomycetes,Sclerotinia
+terrestrial,1527159,Scopulariopsis alboflavescens,GCA_982397445.1,Ascomycota,Sordariomycetes,Scopulariopsis
+terrestrial,93593,Simplicillium lamellicola,GCA_964211815.1,Ascomycota,Sordariomycetes,Simplicillium
+terrestrial,645589,Sinodiscula theae-sinensis,GCA_051027275.1,Ascomycota,Sordariomycetes,Sinodiscula
+terrestrial,45588,Soucietia sequanensis,GCA_030557975.1,Ascomycota,Pichiomycetes,Soucietia
+terrestrial,1343157,Spathaspora arborariae UFMG-19.1A,GCA_000497715.1,Ascomycota,Pichiomycetes,Spathaspora
+terrestrial,1385972,Sporothrix brunneoviolacea,GCA_021396205.1,Ascomycota,Sordariomycetes,Sporothrix
+terrestrial,308923,Starmerella cellae,GCA_030579775.1,Ascomycota,Dipodascomycetes,Starmerella
+terrestrial,174043,Stereocaulon dactylophyllum,GCA_964254575.1,Ascomycota,Lecanoromycetes,Stereocaulon
+terrestrial,1701727,Suhomyces faveliae,GCA_030585145.1,Ascomycota,Pichiomycetes,Suhomyces
+terrestrial,746467,Sungouiella sharkensis,GCA_030567015.1,Ascomycota,Pichiomycetes,Sungouiella
+terrestrial,1196081,Talaromyces amestolkiae,GCA_027569865.1,Ascomycota,Eurotiomycetes,Talaromyces
+terrestrial,2940375,Talaromyces sp. F3606,GCA_023625895.1,Ascomycota,Eurotiomycetes,Talaromyces
+terrestrial,2940371,Talaromyces sp. P2101,GCA_023626015.1,Ascomycota,Eurotiomycetes,Talaromyces
+terrestrial,2940376,Talaromyces sp. PB3603,GCA_023625915.1,Ascomycota,Eurotiomycetes,Talaromyces
+terrestrial,5012,Taphrina wiesneri,GCA_005281515.1,Ascomycota,Taphrinomycetes,Taphrina
+terrestrial,3058842,Teloschistes cf. exilis,GCA_051941425.1,Ascomycota,Lecanoromycetes,Teloschistes
+terrestrial,300277,Tetrapisispora fleetii,GCA_003707605.2,Ascomycota,Saccharomycetes,Tetrapisispora
+terrestrial,113606,Tetrapisispora iriomotensis,GCA_003705975.2,Ascomycota,Saccharomycetes,Tetrapisispora
+terrestrial,2588329,Thermochaetoides dissita,GCA_011800035.1,Ascomycota,Sordariomycetes,Thermochaetoides
+terrestrial,5541,Thermomyces lanuginosus,GCF_041956635.1,Ascomycota,Eurotiomycetes,Thermomyces
+terrestrial,1506992,Thozetella sp. PMI_491,GCA_021432635.1,Ascomycota,Sordariomycetes,Thozetella
+terrestrial,3680288,Torulaspora asahi,GCA_964263575.1,Ascomycota,Saccharomycetes,Torulaspora
+terrestrial,48254,Torulaspora globosa,GCA_044646065.1,Ascomycota,Saccharomycetes,Torulaspora
+terrestrial,5544,Trichoderma harzianum,GCA_057924855.1,Ascomycota,Sordariomycetes,Trichoderma
+terrestrial,3344515,Trichoderma sp. CAU-M14,GCA_046056035.1,Ascomycota,Sordariomycetes,Trichoderma
+terrestrial,2562443,Trichoderma sp. IMV 00454,GCA_001931985.1,Ascomycota,Sordariomycetes,Trichoderma
+terrestrial,1383395,Trichoderma virilente,GCA_046580765.1,Ascomycota,Sordariomycetes,Trichoderma
+terrestrial,1215339,Trichophyton rubrum MR1448,GCA_000616905.1,Ascomycota,Eurotiomycetes,Trichophyton
+terrestrial,152316,Truncatella angustata,GCA_021193595.1,Ascomycota,Sordariomycetes,Truncatella
+terrestrial,1576472,Tumenectria laetidisca,GCA_045529615.1,Ascomycota,Sordariomycetes,Tumenectria
+terrestrial,350624,Usnea aurantiacoatra,GCA_964256655.1,Ascomycota,Lecanoromycetes,Usnea
+terrestrial,1181319,Usnea subscabrosa,GCA_964254585.1,Ascomycota,Lecanoromycetes,Usnea
+terrestrial,1301586,Usnochroma carphineum,GCA_023645975.1,Ascomycota,Lecanoromycetes,Usnochroma
+terrestrial,110526,Ustulina deusta,GCA_022496955.1,Ascomycota,Sordariomycetes,Ustulina
+terrestrial,436907,Vanderwaltozyma polyspora DSM 70294,GCA_000150035.1,Ascomycota,Saccharomycetes,Vanderwaltozyma
+terrestrial,498257,Verticillium dahliae VdLs.17,GCF_000150675.1,Ascomycota,Sordariomycetes,Verticillium
+terrestrial,1378264,Waltiozyma mucosa,GCA_020536175.1,Ascomycota,Saccharomycetes,Wickerhamomyces
+terrestrial,2908285,Wickerhamiella dianesei,GCA_022577725.1,Ascomycota,Dipodascomycetes,Wickerhamiella
+terrestrial,49331,Wickerhamiella pararugosa,GCA_054123235.1,Ascomycota,Dipodascomycetes,Wickerhamiella
+terrestrial,1571656,Wickerhamiella siamensis,GCA_030571815.1,Ascomycota,Dipodascomycetes,Wickerhamiella
+terrestrial,45607,Wickerhamiella sorbophila,GCA_030569535.1,Ascomycota,Dipodascomycetes,Wickerhamiella
+terrestrial,1241557,Williopsis samutprakarnensis,GCA_030569715.1,Ascomycota,Saccharomycetes,Cyberlindnera
+terrestrial,114810,Xylaria arbuscula,GCA_027627345.1,Ascomycota,Sordariomycetes,Xylaria
+terrestrial,490158,Xylaria escharoidea,GCA_048127505.1,Ascomycota,Sordariomycetes,Xylaria
+terrestrial,2512241,Xylaria flabelliformis,GCA_022453505.1,Ascomycota,Sordariomycetes,Xylaria
+terrestrial,114818,Xylaria longipes,GCA_051528455.1,Ascomycota,Sordariomycetes,Xylaria
+terrestrial,323545,Xylaria multiplex,GCA_011057905.1,Ascomycota,Sordariomycetes,Xylaria
+terrestrial,743301,Xylaria striata,GCA_002749545.1,Ascomycota,Sordariomycetes,Xylaria
+terrestrial,2614592,Xylariaceae sp. FL1651,GCA_025201745.1,Ascomycota,Sordariomycetes,NA
+terrestrial,2886099,Xylariaceae sp. Mn132,GCA_028637885.1,Ascomycota,Sordariomycetes,NA
+terrestrial,1590129,Xylographa bjoerkii,GCA_022813905.1,Ascomycota,Lecanoromycetes,Xylographa
+terrestrial,45522,Yamadazyma atmosphaerica,GCA_030574775.1,Ascomycota,Pichiomycetes,Yamadazyma
+terrestrial,1276170,Yamadazyma mexicana,GCA_984568805.1,Ascomycota,Pichiomycetes,Yamadazyma
+terrestrial,1402413,Yarrowia bubula,GCA_900519075.1,Ascomycota,Dipodascomycetes,Yarrowia
+terrestrial,2866370,Yueomyces sp. yHKB289,GCA_030580315.1,Ascomycota,Saccharomycetes,Yueomyces
+terrestrial,985146,Zymoseptoria ardabiliae STIR04_3.3.2,GCA_000223805.2,Ascomycota,Dothideomycetes,Zymoseptoria
+terrestrial,985143,Zymoseptoria pseudotritici STIR04_4.3.1,GCA_000223685.2,Ascomycota,Dothideomycetes,Zymoseptoria
+terrestrial,1047171,Zymoseptoria tritici,GCA_049393625.1,Ascomycota,Dothideomycetes,Zymoseptoria
+terrestrial,3732889,Entelexis stigmatis,GCA_030563545.1,Ascomycota,Saccharomycetes,Entelexis
+terrestrial,1357690,Basidiobolus heterosporus B8920,GCA_000697455.1,Basidiobolomycota,Basidiobolomycetes,Basidiobolus
+terrestrial,1357683,Basidiobolus meristosporus B9252,GCA_000697375.1,Basidiobolomycota,Basidiobolomycetes,Basidiobolus
+terrestrial,1314790,Basidiobolus meristosporus CBS 931.73,GCA_002104905.1,Basidiobolomycota,Basidiobolomycetes,Basidiobolus
+terrestrial,34480,Basidiobolus ranarum,GCA_040143965.1,Basidiobolomycota,Basidiobolomycetes,Basidiobolus
+marine,1331196,Kwoniella mangroviensis CBS 10435,GCA_000507885.2,Basidiomycota,Tremellomycetes,Kwoniella
+marine,5278,Leucosporidium scottii,GCA_003054985.1,Basidiomycota,Microbotryomycetes,Leucosporidium
+marine,5537,Rhodotorula mucilaginosa,GCA_004143675.1,Basidiomycota,Microbotryomycetes,Rhodotorula
+marine,1708541,Wallemia mellicola,GCA_004917925.1,Basidiomycota,Wallemiomycetes,Wallemia
+marine,245174,Wallemia ichthyophaga,GCA_004918305.1,Basidiomycota,Wallemiomycetes,Wallemia
+marine,245174,Wallemia ichthyophaga,GCA_004918405.1,Basidiomycota,Wallemiomycetes,Wallemia
+marine,245174,Wallemia ichthyophaga,GCA_004918655.1,Basidiomycota,Wallemiomycetes,Wallemia
+marine,245174,Wallemia ichthyophaga,GCA_004918735.1,Basidiomycota,Wallemiomycetes,Wallemia
+marine,245174,Wallemia ichthyophaga,GCA_004918755.1,Basidiomycota,Wallemiomycetes,Wallemia
+marine,245174,Wallemia ichthyophaga,GCA_004918895.1,Basidiomycota,Wallemiomycetes,Wallemia
+marine,1708541,Wallemia mellicola,GCA_004918995.1,Basidiomycota,Wallemiomycetes,Wallemia
+marine,1708541,Wallemia mellicola,GCA_004919005.1,Basidiomycota,Wallemiomycetes,Wallemia
+marine,5288,Rhodotorula diobovata,GCA_006352295.1,Basidiomycota,Microbotryomycetes,Rhodotorula
+marine,104408,Naganishia liquefaciens,GCA_013423385.1,Basidiomycota,Tremellomycetes,Naganishia
+marine,5411,Cystofilobasidium bisporidii,GCA_014825535.1,Basidiomycota,Tremellomycetes,Cystofilobasidium
+marine,5411,Cystofilobasidium bisporidii,GCA_014825555.1,Basidiomycota,Tremellomycetes,Cystofilobasidium
+marine,2065442,Malasseziomycetes sp.,GCA_018606675.1,Basidiomycota,Malasseziomycetes,NA
+marine,5537,Rhodotorula mucilaginosa,GCA_019671035.1,Basidiomycota,Microbotryomycetes,Rhodotorula
+marine,5286,Rhodotorula toruloides,GCA_023968905.1,Basidiomycota,Microbotryomycetes,Rhodotorula
+marine,5334,Schizophyllum commune,GCA_024373065.1,Basidiomycota,Agaricomycetes,Schizophyllum
+marine,86839,Rhodotorula sphaerocarpa,GCA_030983975.1,Basidiomycota,Microbotryomycetes,Rhodotorula
+marine,84754,Moesziomyces aphidis,GCA_044705735.1,Basidiomycota,Ustilaginomycetes,Moesziomyces
+marine,89913,Cystofilobasidium infirmominiatum,GCA_047772335.1,Basidiomycota,Tremellomycetes,Cystofilobasidium
+marine,255053,Rhodosporidiobolus colostri,GCA_048544765.1,Basidiomycota,Microbotryomycetes,Rhodosporidiobolus
+marine,5334,Schizophyllum commune,GCA_049639145.1,Basidiomycota,Agaricomycetes,Schizophyllum
+marine,5334,Schizophyllum commune,GCA_049639205.1,Basidiomycota,Agaricomycetes,Schizophyllum
+marine,5334,Schizophyllum commune,GCA_049639225.1,Basidiomycota,Agaricomycetes,Schizophyllum
+marine,5334,Schizophyllum commune,GCA_049639265.1,Basidiomycota,Agaricomycetes,Schizophyllum
+marine,1495444,Rhodotorula pacifica,GCA_049863195.1,Basidiomycota,Microbotryomycetes,Rhodotorula
+marine,3446504,Phlebia sp. UPVMICC-23-009,GCA_053477215.1,Basidiomycota,Agaricomycetes,Phlebia
+marine,3591655,Rhodotorula sp. HGY2,GCA_057542475.1,Basidiomycota,Microbotryomycetes,Rhodotorula
+marine,3591654,Rhodotorula sp. HGY1,GCA_057544825.1,Basidiomycota,Microbotryomycetes,Rhodotorula
+marine,718367,Peniophora sp. CBMAI 1063,GCA_900536885.1,Basidiomycota,Agaricomycetes,Peniophora
+marine,362226,uncultured Microbotryomycetes,GCA_937863695.1,Basidiomycota,Microbotryomycetes,NA
+marine,1495444,Rhodotorula pacifica,GCA_965239605.3,Basidiomycota,Microbotryomycetes,Rhodotorula
+terrestrial,3134631,aff. Porphyrellus sp. UT-M0000367,GCA_041722675.1,Basidiomycota,Agaricomycetes,NA
+terrestrial,79798,Agaricus blazei,GCA_029719445.1,Basidiomycota,Agaricomycetes,Agaricus
+terrestrial,87325,Amanita bisporigera,GCA_001983365.1,Basidiomycota,Agaricomycetes,Amanita
+terrestrial,55340,Amylostereum chailletii,GCA_022385825.1,Basidiomycota,Agaricomycetes,Amylostereum
+terrestrial,2950510,Apiotrichum sp. Y3305A,GCA_025529965.1,Basidiomycota,Tremellomycetes,Apiotrichum
+terrestrial,153913,Armillaria luteobubalina,GCA_030435615.1,Basidiomycota,Agaricomycetes,Armillaria
+terrestrial,47429,Armillaria mellea,GCA_030407055.1,Basidiomycota,Agaricomycetes,Armillaria
+terrestrial,530044,Arthromyces matolae,GCA_018850255.1,Basidiomycota,Agaricomycetes,Arthromyces
+terrestrial,1938712,Atractiella rhizophila,GCA_021432655.1,Basidiomycota,Atractiellomycetes,Atractiella
+terrestrial,3103959,Auricularia sp. M12,GCA_037042885.1,Basidiomycota,Agaricomycetes,Auricularia
+terrestrial,1278223,Austroboletus eburneus,GCA_038090175.1,Basidiomycota,Agaricomycetes,Austroboletus
+terrestrial,1691418,Austroboletus festivus,GCA_038088875.1,Basidiomycota,Agaricomycetes,Austroboletus
+terrestrial,1586323,Austroboletus olivaceoglutinosus,GCA_038093615.1,Basidiomycota,Agaricomycetes,Austroboletus
+terrestrial,181123,Austropuccinia psidii,GCA_023105775.2,Basidiomycota,Pucciniomycetes,Austropuccinia
+terrestrial,1389203,Austropuccinia psidii MF-1,GCA_000469055.2,Basidiomycota,Pucciniomycetes,Austropuccinia
+terrestrial,139080,Baeospora myosura,GCA_001179705.1,Basidiomycota,Agaricomycetes,Baeospora
+terrestrial,2172111,Baorangia bicolor,GCA_038093395.1,Basidiomycota,Agaricomycetes,Baorangia
+terrestrial,3134579,Boletaceae sp. TRTC168347,GCA_041721915.1,Basidiomycota,Agaricomycetes,NA
+terrestrial,3134583,Boletaceae sp. UT-M0000358,GCA_041722595.1,Basidiomycota,Agaricomycetes,NA
+terrestrial,1914044,Boletellus aff. emodensis,GCA_038093915.1,Basidiomycota,Agaricomycetes,Boletellus
+terrestrial,80578,Boletellus ananas,GCA_038089895.1,Basidiomycota,Agaricomycetes,Boletellus
+terrestrial,925639,Boletellus dicymbophilus,GCA_038089035.1,Basidiomycota,Agaricomycetes,Boletellus
+terrestrial,2172112,Boletellus pseudochrysenteroides,GCA_038090975.1,Basidiomycota,Agaricomycetes,Boletellus
+terrestrial,2172115,Boletus aff. separans,GCA_038088755.1,Basidiomycota,Agaricomycetes,Boletus
+terrestrial,3095541,Boletus aff. violaceofuscus,GCA_038093735.1,Basidiomycota,Agaricomycetes,Boletus
+terrestrial,3095453,Boletus eberwhitei,GCA_038090915.1,Basidiomycota,Agaricomycetes,Boletus
+terrestrial,3095458,Boletus mariae,GCA_038093055.1,Basidiomycota,Agaricomycetes,Boletus
+terrestrial,3095463,Boletus pseudopeckii,GCA_038092915.1,Basidiomycota,Agaricomycetes,Boletus
+terrestrial,2879843,Boletus rufocinnamomeus,GCA_038092675.1,Basidiomycota,Agaricomycetes,Boletus
+terrestrial,1355225,Boletus semigastroideus,GCA_038090295.1,Basidiomycota,Agaricomycetes,Boletus
+terrestrial,80583,Boletus smithii,GCA_038092715.1,Basidiomycota,Agaricomycetes,Boletus
+terrestrial,2831041,Boletus sp. NGJ,GCA_019096195.1,Basidiomycota,Agaricomycetes,Boletus
+terrestrial,1354913,Boletus subluridellus,GCA_038092575.1,Basidiomycota,Agaricomycetes,Boletus
+terrestrial,1095465,Bondarzewia mesenterica,GCA_004802705.1,Basidiomycota,Agaricomycetes,Bondarzewia
+terrestrial,857007,Butyriboletus subappendiculatus,GCA_964213195.1,Basidiomycota,Agaricomycetes,Butyriboletus
+terrestrial,71730,Candolleomyces candolleanus,GCA_055944365.1,Basidiomycota,Agaricomycetes,Candolleomyces
+terrestrial,2917767,Candolleomyces efflorescens,GCA_027579765.1,Basidiomycota,Agaricomycetes,Candolleomyces
+terrestrial,184409,Ceratobasidium papillatum,GCA_037042815.1,Basidiomycota,Agaricomycetes,Ceratobasidium
+terrestrial,2600206,Ceratobasidium sp. 423,GCA_019616915.1,Basidiomycota,Agaricomycetes,Ceratobasidium
+terrestrial,2600207,Ceratobasidium sp. 428,GCA_019623705.1,Basidiomycota,Agaricomycetes,Ceratobasidium
+terrestrial,305860,Ceratobasidium sp. AG-I,GCA_015039395.1,Basidiomycota,Agaricomycetes,Ceratobasidium
+terrestrial,2478898,Cerrena zonata,GCA_038087015.1,Basidiomycota,Agaricomycetes,Cerrena
+terrestrial,3134632,cf. Tylopilus sp. TRTC175157,GCA_041722615.1,Basidiomycota,Agaricomycetes,NA
+terrestrial,3095548,Chalciporus aff. trinitensis,GCA_038089015.1,Basidiomycota,Agaricomycetes,Chalciporus
+terrestrial,145387,Chalciporus piperatus,GCA_038093975.1,Basidiomycota,Agaricomycetes,Chalciporus
+terrestrial,1354915,Chalciporus pseudorubinellus,GCA_038092895.1,Basidiomycota,Agaricomycetes,Chalciporus
+terrestrial,3134592,Chalciporus sp. G4409,GCA_041721635.1,Basidiomycota,Agaricomycetes,Chalciporus
+terrestrial,203533,Classicula fluitans,GCA_058224955.1,Basidiomycota,Classiculomycetes,Classicula
+terrestrial,2726953,Clitopilus abprunulus,GCA_054134965.1,Basidiomycota,Agaricomycetes,Clitopilus
+terrestrial,648682,Clitopilus passeckerianus,GCA_944990035.1,Basidiomycota,Agaricomycetes,Clitopilus
+terrestrial,1966363,Collybia mongolica,GCA_013420905.1,Basidiomycota,Agaricomycetes,Collybia
+terrestrial,175648,Coniferiporia sulphurascens,GCA_002794785.1,Basidiomycota,Agaricomycetes,Coniferiporia
+terrestrial,135589,Coniferiporia weirii,GCA_024195185.1,Basidiomycota,Agaricomycetes,Coniferiporia
+terrestrial,240176,Coprinopsis cinerea okayama7#130,GCF_000182895.1,Basidiomycota,Agaricomycetes,Coprinopsis
+terrestrial,76940,Coprinopsis strossmayeri,GCA_900156845.1,Basidiomycota,Agaricomycetes,Coprinopsis
+terrestrial,56187,Coprinus comatus,GCA_003316025.1,Basidiomycota,Agaricomycetes,Coprinus
+terrestrial,76130,Coriolopsis trogii,GCA_020543525.1,Basidiomycota,Agaricomycetes,Coriolopsis
+terrestrial,304812,Cortinarius torvus,GCA_984799035.1,Basidiomycota,Agaricomycetes,Cortinarius
+terrestrial,179855,Crepidotus variabilis,GCA_015657495.1,Basidiomycota,Agaricomycetes,Crepidotus
+terrestrial,1940300,Cristinia sonorae,GCA_021029105.1,Basidiomycota,Agaricomycetes,Cristinia
+terrestrial,3095545,Crocinoboletus aff. laetissimus,GCA_038089315.1,Basidiomycota,Agaricomycetes,Crocinoboletus
+terrestrial,3061949,Cronartium harknessii,GCA_041381035.1,Basidiomycota,Pucciniomycetes,Cronartium
+terrestrial,1295533,Cryptococcus amylolentus CBS 6039,GCF_001720205.1,Basidiomycota,Tremellomycetes,Cryptococcus
+terrestrial,1396488,Cryptococcus deneoformans XL280,GCA_002216205.1,Basidiomycota,Tremellomycetes,Cryptococcus
+terrestrial,1295531,Cryptococcus depauperatus CBS 7841,GCF_001720195.1,Basidiomycota,Tremellomycetes,Cryptococcus
+terrestrial,1296106,Cryptococcus deuterogattii LA55,GCA_000836315.1,Basidiomycota,Tremellomycetes,Cryptococcus
+terrestrial,294750,Cryptococcus deuterogattii R265,GCF_002954075.1,Basidiomycota,Tremellomycetes,Cryptococcus
+terrestrial,1230081,Cryptococcus neoformans A1-35-8,GCA_002221985.1,Basidiomycota,Tremellomycetes,Cryptococcus
+terrestrial,1230080,Cryptococcus neoformans A5-35-17,GCA_002222215.1,Basidiomycota,Tremellomycetes,Cryptococcus
+terrestrial,1230059,Cryptococcus neoformans AD2-60a,GCA_002215775.1,Basidiomycota,Tremellomycetes,Cryptococcus
+terrestrial,1295830,Cryptococcus neoformans Bt1,GCA_002215705.1,Basidiomycota,Tremellomycetes,Cryptococcus
+terrestrial,1230058,Cryptococcus neoformans D17-1,GCA_002222255.1,Basidiomycota,Tremellomycetes,Cryptococcus
+terrestrial,1295838,Cryptococcus neoformans Gb118,GCA_002224005.1,Basidiomycota,Tremellomycetes,Cryptococcus
+terrestrial,1423916,Cryptococcus neoformans RSA-MW-5465,GCA_053525085.1,Basidiomycota,Tremellomycetes,Cryptococcus
+terrestrial,1230072,Cryptococcus neoformans Tu259-1,GCA_002222325.1,Basidiomycota,Tremellomycetes,Cryptococcus
+terrestrial,2937425,Cryptococcus sp. GC_Crypt_4,GCA_026538345.1,Basidiomycota,Tremellomycetes,Cryptococcus
+terrestrial,2937423,Cryptococcus sp. GC_Crypt_6,GCA_026538315.1,Basidiomycota,Tremellomycetes,Cryptococcus
+terrestrial,2937422,Cryptococcus sp. GC_Crypt_7,GCA_026538335.1,Basidiomycota,Tremellomycetes,Cryptococcus
+terrestrial,1295528,Cryptococcus wingfieldii CBS 7118,GCF_001720155.1,Basidiomycota,Tremellomycetes,Cryptococcus
+terrestrial,1890679,Cryptotrichosporon argae,GCA_051557425.1,Basidiomycota,Tremellomycetes,Cryptotrichosporon
+terrestrial,1890680,Cryptotrichosporon brontae,GCA_977066725.1,Basidiomycota,Tremellomycetes,Cryptotrichosporon
+terrestrial,2136021,Cubamyces menziesii,GCA_022606275.1,Basidiomycota,Agaricomycetes,Cubamyces
+terrestrial,2939520,Cutaneotrichosporon sp. P10-008,GCA_023630095.1,Basidiomycota,Tremellomycetes,Cutaneotrichosporon
+terrestrial,2939555,Cutaneotrichosporon sp. PDH3307A,GCA_023629995.1,Basidiomycota,Tremellomycetes,Cutaneotrichosporon
+terrestrial,68777,Cyathus striatus,GCA_025738555.1,Basidiomycota,Agaricomycetes,Cyathus
+terrestrial,2778381,Cyphobasidiales sp. Tagirdzhanova-0007,GCA_904855205.1,Basidiomycota,Cystobasidiomycetes,NA
+terrestrial,2939524,Cystobasidium sp. 2NP905A,GCA_023628355.1,Basidiomycota,Cystobasidiomycetes,Cystobasidium
+terrestrial,1930696,Cystobasidium tubakii,GCA_024345325.1,Basidiomycota,Cystobasidiomycetes,Cystobasidium
+terrestrial,5412,Cystofilobasidium capitatum,GCA_014825545.1,Basidiomycota,Tremellomycetes,Cystofilobasidium
+terrestrial,89913,Cystofilobasidium infirmominiatum,GCA_047772335.1,Basidiomycota,Tremellomycetes,Cystofilobasidium
+terrestrial,1418850,Deconica xeroderma,GCA_051996635.1,Basidiomycota,Agaricomycetes,Deconica
+terrestrial,114155,Dichomitus squalens,GCA_004307915.1,Basidiomycota,Agaricomycetes,Dichomitus
+terrestrial,732165,Dichomitus squalens LYAD-421 SS1,GCA_000275845.1,Basidiomycota,Agaricomycetes,Dichomitus
+terrestrial,267221,Dioszegia buhagiarii,GCA_048933775.1,Basidiomycota,Tremellomycetes,Dioszegia
+terrestrial,267218,Dioszegia catarinoi,GCA_048934005.1,Basidiomycota,Tremellomycetes,Dioszegia
+terrestrial,4974,Dioszegia crocea,GCA_001600615.1,Basidiomycota,Tremellomycetes,Dioszegia
+terrestrial,4972,Dioszegia hungarica,GCA_048934175.1,Basidiomycota,Tremellomycetes,Dioszegia
+terrestrial,418785,Entoloma clypeatum,GCA_963565915.2,Basidiomycota,Agaricomycetes,Entoloma
+terrestrial,5210,Filobasidium floriforme,GCA_019201745.1,Basidiomycota,Tremellomycetes,Filobasidium
+terrestrial,89934,Filobasidium globisporum,GCA_040368705.1,Basidiomycota,Tremellomycetes,Filobasidium
+terrestrial,5212,Filobasidium uniguttulatum,GCA_039545395.1,Basidiomycota,Tremellomycetes,Filobasidium
+terrestrial,493452,Floccularia luteovirens,GCA_052855235.1,Basidiomycota,Agaricomycetes,Floccularia
+terrestrial,208960,Fomitiporia mediterranea,GCA_041380695.1,Basidiomycota,Agaricomycetes,Fomitiporia
+terrestrial,195184,Fulvifomes rimosus,GCA_048987155.1,Basidiomycota,Agaricomycetes,Fulvifomes
+terrestrial,2487151,Ganoderma ellipsoideum,GCA_056825345.1,Basidiomycota,Agaricomycetes,Ganoderma
+terrestrial,2962918,Gerronema lapidescens,GCA_052815655.1,Basidiomycota,Agaricomycetes,Gerronema
+terrestrial,1074867,Glaciozyma watsonii,GCA_054785315.1,Basidiomycota,Microbotryomycetes,Glaciozyma
+terrestrial,2652145,Golubevia sp. BC0902,GCA_012976205.1,Basidiomycota,Exobasidiomycetes,Golubevia
+terrestrial,104221,Gomphus bonarii,GCA_003316585.1,Basidiomycota,Agaricomycetes,Gomphus
+terrestrial,5627,Grifola frondosa,GCA_041464085.1,Basidiomycota,Agaricomycetes,Grifola
+terrestrial,1748404,Guyanaporus albipodus,GCA_038088995.1,Basidiomycota,Agaricomycetes,Guyanaporus
+terrestrial,3101525,Gymnopilus sp. ZRL20210594,GCA_051998085.1,Basidiomycota,Agaricomycetes,Gymnopilus
+terrestrial,85971,Gyrodon lividus,GCA_014904945.1,Basidiomycota,Agaricomycetes,Gyrodon
+terrestrial,105769,Helostroma bacarum,GCA_040368945.1,Basidiomycota,Exobasidiomycetes,Helostroma
+terrestrial,135208,Hericium alpestre,GCA_004681135.1,Basidiomycota,Agaricomycetes,Hericium
+terrestrial,100756,Hericium coralloides,GCA_964264465.1,Basidiomycota,Agaricomycetes,Hericium
+terrestrial,98765,Hermanssonia centrifuga,GCA_056371545.1,Basidiomycota,Agaricomycetes,Hermanssonia
+terrestrial,566093,Hygrocybe helobia,GCA_965605795.1,Basidiomycota,Agaricomycetes,Hygrocybe
+terrestrial,72124,Hygrophoropsis aurantiaca,GCA_021014935.1,Basidiomycota,Agaricomycetes,Hygrophoropsis
+terrestrial,861056,Hymenopellis raphanipes,GCA_036872995.1,Basidiomycota,Agaricomycetes,Hymenopellis
+terrestrial,71946,Hypholoma subviride,GCA_051997965.1,Basidiomycota,Agaricomycetes,Hypholoma
+terrestrial,71891,Hypsizygus ulmarius,GCA_018851835.1,Basidiomycota,Agaricomycetes,Hypsizygus
+terrestrial,150792,Hysterangium stoloniferum,GCA_015178975.1,Basidiomycota,Agaricomycetes,Hysterangium
+terrestrial,467854,Inocybe glabripes,GCA_043251705.1,Basidiomycota,Agaricomycetes,Inocybe
+terrestrial,2822767,Inocybe obscuroides,GCA_965233645.1,Basidiomycota,Agaricomycetes,Inocybe
+terrestrial,467887,Inosperma bongardii,GCA_043258245.1,Basidiomycota,Agaricomycetes,Inosperma
+terrestrial,156610,Inosperma cervicolor,GCA_043251985.1,Basidiomycota,Agaricomycetes,Inosperma
+terrestrial,239124,Inosperma lanatodiscum,GCA_058411325.1,Basidiomycota,Agaricomycetes,Inosperma
+terrestrial,5319,Irpex lacteus,GCA_056365925.1,Basidiomycota,Agaricomycetes,Irpex
+terrestrial,4999,Kockovaella imperatae,GCF_002102565.1,Basidiomycota,Tremellomycetes,Kockovaella
+terrestrial,3467458,Kurtzmanomyces sp. YL-2025a,GCA_054471085.1,Basidiomycota,Agaricostilbomycetes,Kurtzmanomyces
+terrestrial,1268659,Kwoniella botswanensis,GCA_036426115.1,Basidiomycota,Tremellomycetes,Kwoniella
+terrestrial,1296119,Kwoniella heveanensis CBS 569,GCA_000507425.3,Basidiomycota,Tremellomycetes,Kwoniella
+terrestrial,1296096,Kwoniella pini CBS 10737,GCA_000512605.3,Basidiomycota,Tremellomycetes,Kwoniella
+terrestrial,2017516,Lactifluus echinatus,GCA_003315975.1,Basidiomycota,Agaricomycetes,Lactifluus
+terrestrial,5630,Laetiporus sulphureus,GCA_927399515.3,Basidiomycota,Agaricomycetes,Laetiporus
+terrestrial,2202573,Leccinellum albellum,GCA_038090015.1,Basidiomycota,Agaricomycetes,Leccinellum
+terrestrial,3114933,Leccinellum rugosiceps,GCA_038089755.1,Basidiomycota,Agaricomycetes,Leccinellum
+terrestrial,121046,Leccinum aurantiacum,GCA_038092275.1,Basidiomycota,Agaricomycetes,Leccinum
+terrestrial,3095483,Leccinum barrowsii,GCA_038092195.1,Basidiomycota,Agaricomycetes,Leccinum
+terrestrial,3095486,Leccinum brunneo-olivaceum,GCA_038092115.1,Basidiomycota,Agaricomycetes,Leccinum
+terrestrial,3095487,Leccinum cinnamomeum,GCA_038092135.1,Basidiomycota,Agaricomycetes,Leccinum
+terrestrial,3095492,Leccinum fallax,GCA_038090875.1,Basidiomycota,Agaricomycetes,Leccinum
+terrestrial,3095499,Leccinum obscurum,GCA_038091815.1,Basidiomycota,Agaricomycetes,Leccinum
+terrestrial,3095504,Leccinum pellstonianum,GCA_038091735.1,Basidiomycota,Agaricomycetes,Leccinum
+terrestrial,3095505,Leccinum ponderosum,GCA_038091715.1,Basidiomycota,Agaricomycetes,Leccinum
+terrestrial,273865,Leccinum snellii,GCA_038091635.1,Basidiomycota,Agaricomycetes,Leccinum
+terrestrial,3095515,Leccinum sublutescens,GCA_038091555.1,Basidiomycota,Agaricomycetes,Leccinum
+terrestrial,3095518,Leccinum subspadiceum,GCA_038091535.1,Basidiomycota,Agaricomycetes,Leccinum
+terrestrial,153920,Lentinula aciculospora,GCA_028011355.1,Basidiomycota,Agaricomycetes,Lentinula
+terrestrial,2804960,Lentinula aff. lateritia,GCA_027886305.1,Basidiomycota,Agaricomycetes,Lentinula
+terrestrial,2804962,Lentinula detonsa,GCA_027921405.1,Basidiomycota,Agaricomycetes,Lentinula
+terrestrial,42442,Lentinula novae-zelandiae,GCA_027921425.1,Basidiomycota,Agaricomycetes,Lentinula
+terrestrial,2498619,Lentinus brumalis,GCA_001792895.1,Basidiomycota,Agaricomycetes,Lentinus
+terrestrial,3591721,Leucoagaricus bulbosus,GCA_056956855.1,Basidiomycota,Agaricomycetes,Leucoagaricus
+terrestrial,1714833,Leucoagaricus sp. SymC.cos,GCA_001563735.1,Basidiomycota,Agaricomycetes,Leucoagaricus
+terrestrial,3439036,Leucoagaricus sp. ZRL20241585,GCA_056956975.1,Basidiomycota,Agaricomycetes,Leucoagaricus
+terrestrial,79220,Leucocoprinus gongylophorus,GCA_022457215.3,Basidiomycota,Agaricomycetes,Leucocoprinus
+terrestrial,2837572,Leucocoprinus sp. KB1807203,GCA_019327925.1,Basidiomycota,Agaricomycetes,Leucocoprinus
+terrestrial,47721,Lyophyllum shimeji,GCA_001950515.1,Basidiomycota,Agaricomycetes,Lyophyllum
+terrestrial,1821822,Malassezia brasiliensis,GCA_029542985.1,Basidiomycota,Malasseziomycetes,Malassezia
+terrestrial,1381934,Malassezia caprae,GCA_001264625.1,Basidiomycota,Malasseziomycetes,Malassezia
+terrestrial,169489,Malassezia dermatis,GCA_001600775.1,Basidiomycota,Malasseziomycetes,Malassezia
+terrestrial,77020,Malassezia pachydermatis,GCA_014493585.1,Basidiomycota,Malasseziomycetes,Malassezia
+terrestrial,585013,Marasmius crinis-equi,GCA_040437605.1,Basidiomycota,Agaricomycetes,Marasmius
+terrestrial,181124,Marasmius oreades,GCA_018924745.1,Basidiomycota,Agaricomycetes,Marasmius
+terrestrial,585030,Marasmius tenuissimus,GCA_040207205.1,Basidiomycota,Agaricomycetes,Marasmius
+terrestrial,242475,Melampsora allii-populina,GCA_002157005.1,Basidiomycota,Pucciniomycetes,Melampsora
+terrestrial,2056292,Meripilus lineatus,GCA_027627245.1,Basidiomycota,Agaricomycetes,Meripilus
+terrestrial,34349,Mixia osmundae,GCA_982397275.1,Basidiomycota,Mixiomycetes,Mixia
+terrestrial,764103,Mixia osmundae IAM 14324,GCF_000708205.1,Basidiomycota,Mixiomycetes,Mixia
+terrestrial,105766,Mrakia gelida,GCA_017654745.1,Basidiomycota,Tremellomycetes,Mrakia
+terrestrial,72568,Mrakia psychrophila,GCA_001889225.1,Basidiomycota,Tremellomycetes,Mrakia
+terrestrial,2762095,Mrakia stelviica,GCA_050494495.1,Basidiomycota,Tremellomycetes,Mrakia
+terrestrial,380012,Mycena amicta,GCA_029282125.1,Basidiomycota,Agaricomycetes,Mycena
+terrestrial,1033014,Mycena belliarum,GCA_029282135.1,Basidiomycota,Agaricomycetes,Mycena
+terrestrial,858877,Mycena filopes,GCA_029281495.1,Basidiomycota,Agaricomycetes,Mycena
+terrestrial,1033242,Mycena floridula,GCA_029320655.1,Basidiomycota,Agaricomycetes,Mycena
+terrestrial,1314675,Mycena galopus ATCC 62051,GCA_014925785.1,Basidiomycota,Agaricomycetes,Mycena
+terrestrial,230807,Mycena haematopus,GCA_029281435.1,Basidiomycota,Agaricomycetes,Mycena
+terrestrial,1045383,Mycena rebaudengoi,GCA_029282285.1,Basidiomycota,Agaricomycetes,Mycena
+terrestrial,3423186,Mycena sp. L02,GCA_054372675.1,Basidiomycota,Agaricomycetes,Mycena
+terrestrial,2733690,Mycena venus,GCA_014462655.1,Basidiomycota,Agaricomycetes,Mycena
+terrestrial,71784,Naematelia encephala,GCA_002105065.1,Basidiomycota,Tremellomycetes,Naematelia
+terrestrial,3422803,Naematelia sinensis,GCA_056747525.1,Basidiomycota,Tremellomycetes,Naematelia
+terrestrial,92952,Naganishia adeliensis,GCA_030039275.1,Basidiomycota,Tremellomycetes,Naganishia
+terrestrial,610337,Naganishia cerealis,GCA_030039265.1,Basidiomycota,Tremellomycetes,Naganishia
+terrestrial,312146,Naganishia randhawae,GCA_013461525.1,Basidiomycota,Tremellomycetes,Naganishia
+terrestrial,1424756,Naganishia vaughanmartiniae,GCA_030039245.1,Basidiomycota,Tremellomycetes,Naganishia
+terrestrial,71958,Neonothopanus nambi,GCA_003987895.1,Basidiomycota,Agaricomycetes,Neonothopanus
+terrestrial,1052685,Obba rivulosa,GCA_001687445.1,Basidiomycota,Agaricomycetes,Obba
+terrestrial,181874,Panaeolus cyanescens,GCA_002938355.1,Basidiomycota,Agaricomycetes,Panaeolus
+terrestrial,160031,Panellus pusillus,GCA_013387415.1,Basidiomycota,Agaricomycetes,Panellus
+terrestrial,425109,Papiliotrema terrestris,GCA_019857685.1,Basidiomycota,Tremellomycetes,Papiliotrema
+terrestrial,2939537,Pascua sp. PH4015B,GCA_025502685.1,Basidiomycota,Tremellomycetes,Pascua
+terrestrial,2939541,Pascua sp. PK3308B-1,GCA_023627935.1,Basidiomycota,Tremellomycetes,Pascua
+terrestrial,930991,Paxillus rubicundulus Ve08.2h10,GCA_000827395.1,Basidiomycota,Agaricomycetes,Paxillus
+terrestrial,3446504,Phlebia sp. UPVMICC-23-009,GCA_053477215.1,Basidiomycota,Agaricomycetes,Phlebia
+terrestrial,2562471,Phlebopus roseus,GCA_040085005.1,Basidiomycota,Agaricomycetes,Phlebopus
+terrestrial,2615122,Phlebopus sp. FC_14,GCA_021018615.1,Basidiomycota,Agaricomycetes,Phlebopus
+terrestrial,13206,Pholiota aurivella,GCA_051997715.1,Basidiomycota,Agaricomycetes,Pholiota
+terrestrial,1343360,Pholiota brunnescens,GCA_051997655.1,Basidiomycota,Agaricomycetes,Pholiota
+terrestrial,3101529,Pholiota sp. ZRL20221364,GCA_051997395.1,Basidiomycota,Agaricomycetes,Pholiota
+terrestrial,1143271,Phylloporus scabripes,GCA_038090435.1,Basidiomycota,Agaricomycetes,Phylloporus
+terrestrial,3134605,Phylloporus sp. UT-M0000405,GCA_041722775.1,Basidiomycota,Agaricomycetes,Phylloporus
+terrestrial,765440,Piloderma croceum F 1598,GCA_000827315.1,Basidiomycota,Agaricomycetes,Piloderma
+terrestrial,2136032,Pisolithus thermaeus,GCA_024663475.1,Basidiomycota,Agaricomycetes,Pisolithus
+terrestrial,870435,Pisolithus tinctorius Marx 270,GCA_000827335.1,Basidiomycota,Agaricomycetes,Pisolithus
+terrestrial,5321,Pleurotus cornucopiae,GCA_019677325.2,Basidiomycota,Agaricomycetes,Pleurotus
+terrestrial,1156456,Pleurotus giganteus,GCA_032158425.1,Basidiomycota,Agaricomycetes,Pleurotus
+terrestrial,5322,Pleurotus ostreatus,GCA_947034855.1,Basidiomycota,Agaricomycetes,Pleurotus
+terrestrial,1658514,Pleurotus placentodes,GCA_058321315.1,Basidiomycota,Agaricomycetes,Pleurotus
+terrestrial,28995,Pleurotus pulmonarius,GCA_057657895.1,Basidiomycota,Agaricomycetes,Pleurotus
+terrestrial,98349,Pleurotus sapidus,GCA_026743855.1,Basidiomycota,Agaricomycetes,Pleurotus
+terrestrial,2841190,Podaxis carcinomalis,GCA_018524395.1,Basidiomycota,Agaricomycetes,Podaxis
+terrestrial,1810667,Podaxis rugospora,GCA_018524415.1,Basidiomycota,Agaricomycetes,Podaxis
+terrestrial,2802319,Podaxis sp. C-F-101400,GCA_018524895.1,Basidiomycota,Agaricomycetes,Podaxis
+terrestrial,1314778,Polyporus arcularius HHB13444,GCA_004369055.1,Basidiomycota,Agaricomycetes,Polyporus
+terrestrial,3134608,Porphyrellus sp. KM206675,GCA_041722315.1,Basidiomycota,Agaricomycetes,Porphyrellus
+terrestrial,3134609,Porphyrellus sp. TRTC161176,GCA_041722435.1,Basidiomycota,Agaricomycetes,Porphyrellus
+terrestrial,561896,Postia placenta Mad-698-R,GCA_000006255.1,Basidiomycota,Agaricomycetes,Rhodonia
+terrestrial,1643523,Pseudoaustroboletus valens,GCA_038089375.1,Basidiomycota,Agaricomycetes,Pseudoaustroboletus
+terrestrial,1277687,Pseudozyma flocculosa PF-1,GCA_000417875.1,Basidiomycota,Ustilaginomycetes,Pseudozyma
+terrestrial,1305764,Pseudozyma hubeiensis SY62,GCF_000403515.1,Basidiomycota,Ustilaginomycetes,Pseudozyma
+terrestrial,203535,Pseudozyma thailandica,GCA_023212835.1,Basidiomycota,Ustilaginomycetes,Pseudozyma
+terrestrial,2010955,Psilocybe keralensis,GCA_051997275.1,Basidiomycota,Agaricomycetes,Psilocybe
+terrestrial,3120211,Psilocybe maluti,GCA_040207425.1,Basidiomycota,Agaricomycetes,Psilocybe
+terrestrial,56615,Puccinia graminis f. sp. tritici,GCA_002762355.2,Basidiomycota,Pucciniomycetes,Puccinia
+terrestrial,331382,Puccinia horiana,GCA_001624995.1,Basidiomycota,Pucciniomycetes,Puccinia
+terrestrial,1262395,Puccinia striiformis f. sp. tritici 08/21,GCA_000342565.1,Basidiomycota,Pucciniomycetes,Puccinia
+terrestrial,208348,Puccinia triticina,GCA_029618625.1,Basidiomycota,Pucciniomycetes,Puccinia
+terrestrial,3095535,Pulveroboletus aff. ridleyi,GCA_038094035.1,Basidiomycota,Agaricomycetes,Pulveroboletus
+terrestrial,80668,Pulveroboletus ravenelii,GCA_003316545.1,Basidiomycota,Agaricomycetes,Pulveroboletus
+terrestrial,2015389,Pulveroboletus ridleyi,GCA_038089355.1,Basidiomycota,Agaricomycetes,Pulveroboletus
+terrestrial,1417759,Pyrrhoderma noxium OVT-YTM/97,GCA_000507345.1,Basidiomycota,Agaricomycetes,Pyrrhoderma
+terrestrial,363177,Quambalaria eucalypti,GCA_004016185.1,Basidiomycota,Exobasidiomycetes,Quambalaria
+terrestrial,2175970,Ramaria sp. MG151,GCA_003314545.1,Basidiomycota,Agaricomycetes,Ramaria
+terrestrial,1775113,Retiboletus fuscus,GCA_038093795.1,Basidiomycota,Agaricomycetes,Retiboletus
+terrestrial,1282276,Retiboletus ornatipes,GCA_038091215.1,Basidiomycota,Agaricomycetes,Retiboletus
+terrestrial,90004,Rhizopogon roseolus,GCA_930272055.1,Basidiomycota,Agaricomycetes,Rhizopogon
+terrestrial,181343,Rhizopogon rudus,GCA_002995195.1,Basidiomycota,Agaricomycetes,Rhizopogon
+terrestrial,71918,Rhodocollybia maculata,GCA_965654425.1,Basidiomycota,Agaricomycetes,Rhodocollybia
+terrestrial,145577,Rhodosporidiobolus azoricus,GCA_050402905.1,Basidiomycota,Microbotryomycetes,Rhodosporidiobolus
+terrestrial,3021964,Rhodosporidiobolus sp. SP3-3/4,GCA_029873605.1,Basidiomycota,Microbotryomycetes,Rhodosporidiobolus
+terrestrial,86829,Rhodotorula araucariae,GCA_050403085.1,Basidiomycota,Microbotryomycetes,Rhodotorula
+terrestrial,5288,Rhodotorula diobovata,GCA_051313295.1,Basidiomycota,Microbotryomycetes,Rhodotorula
+terrestrial,29898,Rhodotorula graminis,GCA_937859235.1,Basidiomycota,Microbotryomycetes,Rhodotorula
+terrestrial,86838,Rhodotorula paludigena,GCA_019671115.1,Basidiomycota,Microbotryomycetes,Rhodotorula
+terrestrial,2909583,Rhodotorula sp. CC01,GCA_021654155.1,Basidiomycota,Microbotryomycetes,Rhodotorula
+terrestrial,1305733,Rhodotorula sp. JG-1b,GCA_001541205.1,Basidiomycota,Microbotryomycetes,Rhodotorula
+terrestrial,5286,Rhodotorula toruloides,GCA_035220585.1,Basidiomycota,Microbotryomycetes,Rhodotorula
+terrestrial,1165933,Rhodotorula toruloides MTCC 457,GCA_000258745.1,Basidiomycota,Microbotryomycetes,Rhodotorula
+terrestrial,1751885,Rubroboletus pulcherrimus,GCA_038091165.1,Basidiomycota,Agaricomycetes,Rubroboletus
+terrestrial,3163303,Russula aff. farinipes,GCA_964199335.1,Basidiomycota,Agaricomycetes,Russula
+terrestrial,98861,Russula brevipes,GCA_022496215.1,Basidiomycota,Agaricomycetes,Russula
+terrestrial,2830151,Russula nobilis,GCA_984573805.1,Basidiomycota,Agaricomycetes,Russula
+terrestrial,1639000,Saitozyma sp. JCM 24511,GCA_001600855.1,Basidiomycota,Tremellomycetes,Saitozyma
+terrestrial,3569152,Saitozyma sp. SH1,GCA_054858165.1,Basidiomycota,Tremellomycetes,Saitozyma
+terrestrial,392538,Salmacisia buchloeana,GCA_001990185.1,Basidiomycota,Exobasidiomycetes,Salmacisia
+terrestrial,175686,Sanghuangporus vaninii,GCA_041442975.1,Basidiomycota,Agaricomycetes,Sanghuangporus
+terrestrial,2175968,Sarcodon sp. MG97,GCA_003313065.1,Basidiomycota,Agaricomycetes,Sarcodon
+terrestrial,578458,Schizophyllum commune H4-8,GCA_000143185.2,Basidiomycota,Agaricomycetes,Schizophyllum
+terrestrial,1163567,Scleroderma yunnanense,GCA_046718465.1,Basidiomycota,Agaricomycetes,Scleroderma
+terrestrial,936435,Serpula lacrymans var. lacrymans S7.3,GCA_000218725.1,Basidiomycota,Agaricomycetes,Serpula
+terrestrial,1918494,Singerocomus inundabilis,GCA_038089075.1,Basidiomycota,Agaricomycetes,Singerocomus
+terrestrial,3059160,Somion occarium,GCA_964035595.1,Basidiomycota,Agaricomycetes,Somion
+terrestrial,1202976,Sparassis latifolia,GCA_018466975.1,Basidiomycota,Agaricomycetes,Sparassis
+terrestrial,3016916,Sparassis minoensis,GCA_965199605.1,Basidiomycota,Agaricomycetes,Sparassis
+terrestrial,2012262,Sporidiobolaceae sp.,GCA_029299915.1,Basidiomycota,Microbotryomycetes,NA
+terrestrial,882904,Sporisorium exsertum,GCA_928724755.1,Basidiomycota,Ustilaginomycetes,Sporisorium
+terrestrial,882909,Sporisorium iseilematis-ciliati,GCA_001748505.1,Basidiomycota,Ustilaginomycetes,Sporisorium
+terrestrial,999809,Sporisorium reilianum SRZ2,GCA_000230245.1,Basidiomycota,Ustilaginomycetes,Sporisorium
+terrestrial,49012,Sporisorium scitamineum,GCA_001243155.1,Basidiomycota,Ustilaginomycetes,Sporisorium
+terrestrial,40563,Sporobolomyces roseus,GCA_016617785.1,Basidiomycota,Microbotryomycetes,Sporobolomyces
+terrestrial,86828,Sporobolomyces ruberrimus,GCA_050403465.1,Basidiomycota,Microbotryomycetes,Sporobolomyces
+terrestrial,92696,Steccherinum ochraceum,GCA_004332605.1,Basidiomycota,Agaricomycetes,Steccherinum
+terrestrial,511178,Strobilurus stephanocystis,GCA_019915075.1,Basidiomycota,Agaricomycetes,Strobilurus
+terrestrial,2487401,Stropharia atroferruginea,GCA_051997315.1,Basidiomycota,Agaricomycetes,Stropharia
+terrestrial,2804180,Stropharia lignicola,GCA_051997255.1,Basidiomycota,Agaricomycetes,Stropharia
+terrestrial,2682957,Stygiomarasmius scandens,GCA_037954225.1,Basidiomycota,Agaricomycetes,Stygiomarasmius
+terrestrial,1400700,Suillus brevipes Sb2,GCA_011800875.2,Basidiomycota,Agaricomycetes,Suillus
+terrestrial,1904413,Suillus clintonianus,GCA_016758775.1,Basidiomycota,Agaricomycetes,Suillus
+terrestrial,1912936,Suillus discolor,GCF_016758755.1,Basidiomycota,Agaricomycetes,Suillus
+terrestrial,48586,Suillus subalutaceus,GCA_016647625.1,Basidiomycota,Agaricomycetes,Suillus
+terrestrial,48588,Suillus subluteus,GCA_016647755.1,Basidiomycota,Agaricomycetes,Suillus
+terrestrial,69976,Symmetrospora coprosmae,GCA_008802785.1,Basidiomycota,Cystobasidiomycetes,Symmetrospora
+terrestrial,2696576,Taiwanofungus camphoratus,GCA_036872975.1,Basidiomycota,Agaricomycetes,Taiwanofungus
+terrestrial,82525,Tausonia pullulans,GCA_951802195.1,Basidiomycota,Tremellomycetes,Tausonia
+terrestrial,117070,Tephrocybe rancida,GCA_018850235.1,Basidiomycota,Agaricomycetes,Tephrocybe
+terrestrial,2724998,Tephrocybe sp. 10521TJB,GCA_018221635.1,Basidiomycota,Agaricomycetes,Tephrocybe
+terrestrial,2724997,Tephrocybe sp. 9174TJB,GCA_018850275.1,Basidiomycota,Agaricomycetes,Tephrocybe
+terrestrial,2724996,Tephrocybe sp. NHM501043,GCA_018855915.1,Basidiomycota,Agaricomycetes,Tephrocybe
+terrestrial,858892,Termitomyces bulborhizus,GCA_017580835.1,Basidiomycota,Agaricomycetes,Termitomyces
+terrestrial,3113572,Termitomyces sp. ANC-D,GCA_042240745.1,Basidiomycota,Agaricomycetes,Termitomyces
+terrestrial,3113568,Termitomyces sp. IC0020,GCA_042239825.1,Basidiomycota,Agaricomycetes,Termitomyces
+terrestrial,3113579,Termitomyces sp. IC0027,GCA_042240725.1,Basidiomycota,Agaricomycetes,Termitomyces
+terrestrial,3113580,Termitomyces sp. IC0032,GCA_042240685.1,Basidiomycota,Agaricomycetes,Termitomyces
+terrestrial,3113571,Termitomyces sp. IC0035-1,GCA_042239815.1,Basidiomycota,Agaricomycetes,Termitomyces
+terrestrial,2053456,Termitomyces sp. Mn162,GCA_017607575.1,Basidiomycota,Agaricomycetes,Termitomyces
+terrestrial,2811475,Termitomyces sp. T108,GCA_017657275.1,Basidiomycota,Agaricomycetes,Termitomyces
+terrestrial,2053457,Termitomyces sp. T123_Mx157,GCA_018849495.1,Basidiomycota,Agaricomycetes,Termitomyces
+terrestrial,1857762,Termitomyces sp. T153,GCA_018296165.2,Basidiomycota,Agaricomycetes,Termitomyces
+terrestrial,469304,Thecaphora thlaspeos,GCA_900260175.1,Basidiomycota,Ustilaginomycetes,Thecaphora
+terrestrial,157181,Tilletia fusca,GCA_045933415.1,Basidiomycota,Exobasidiomycetes,Tilletia
+terrestrial,575983,Trametes cingulata,GCA_022385765.1,Basidiomycota,Agaricomycetes,Trametes
+terrestrial,1353009,Trametes coccinea BRFM310,GCA_002092935.1,Basidiomycota,Agaricomycetes,Trametes
+terrestrial,1111947,Trametes cubensis,GCA_029747595.1,Basidiomycota,Agaricomycetes,Trametes
+terrestrial,717944,Trametes versicolor FP-101664 SS1,GCA_000271585.1,Basidiomycota,Agaricomycetes,Trametes
+terrestrial,2913085,Tremellales sp. FJII-L8-SW-PAB2,GCA_022813505.1,Basidiomycota,Tremellomycetes,NA
+terrestrial,3028765,Trichaptum abietinum,GCA_910574555.1,Basidiomycota,Agaricomycetes,Trichaptum
+terrestrial,80606,Tricholoma flavovirens,GCA_003313805.1,Basidiomycota,Agaricomycetes,Tricholoma
+terrestrial,116051,Tricholoma populinum,GCA_045781145.1,Basidiomycota,Agaricomycetes,Tricholoma
+terrestrial,2175963,Tricholoma sp. MG77,GCA_003314665.1,Basidiomycota,Agaricomycetes,Tricholoma
+terrestrial,82508,Trichosporon asahii,GCA_037044125.1,Basidiomycota,Tremellomycetes,Trichosporon
+terrestrial,1186058,Trichosporon asahii var. asahii CBS 2479,GCA_000293215.1,Basidiomycota,Tremellomycetes,Trichosporon
+terrestrial,82524,Trichosporon ovoides,GCA_052055005.2,Basidiomycota,Tremellomycetes,Trichosporon
+terrestrial,2950511,Trichosporon sp. P6006,GCA_025529565.1,Basidiomycota,Tremellomycetes,Trichosporon
+terrestrial,3411703,Trichosporon sp. YKP15-1,GCA_049862265.1,Basidiomycota,Tremellomycetes,Trichosporon
+terrestrial,2842282,Tubosaeta aff. alveolata,GCA_038094535.1,Basidiomycota,Agaricomycetes,Tubosaeta
+terrestrial,2842283,Tubosaeta aff. heterosetosa,GCA_038094375.1,Basidiomycota,Agaricomycetes,Tubosaeta
+terrestrial,2600222,Tulasnella sp. 332,GCA_019632285.1,Basidiomycota,Agaricomycetes,Tulasnella
+terrestrial,2600229,Tulasnella sp. 425,GCA_019633485.1,Basidiomycota,Agaricomycetes,Tulasnella
+terrestrial,2600232,Tulasnella sp. JGI-2019a,GCA_019633555.1,Basidiomycota,Agaricomycetes,NA
+terrestrial,2842284,Tylopilus aff. beelii,GCA_038094295.1,Basidiomycota,Agaricomycetes,Tylopilus
+terrestrial,2842285,Tylopilus aff. striatulus,GCA_038094335.1,Basidiomycota,Agaricomycetes,Tylopilus
+terrestrial,98230,Tylopilus felleus,GCA_054948845.1,Basidiomycota,Agaricomycetes,Tylopilus
+terrestrial,925757,Tylopilus intermedius,GCA_038091255.1,Basidiomycota,Agaricomycetes,Tylopilus
+terrestrial,388871,Tylopilus rubrobrunneus,GCA_038091235.1,Basidiomycota,Agaricomycetes,Tylopilus
+terrestrial,3134618,Tylopilus sp. KM206722,GCA_041722095.1,Basidiomycota,Agaricomycetes,Tylopilus
+terrestrial,3134622,Tylopilus sp. UT-M0000054,GCA_041722795.1,Basidiomycota,Agaricomycetes,Tylopilus
+terrestrial,1495898,Tylopilus vinaceipallidus,GCA_038089215.1,Basidiomycota,Agaricomycetes,Tylopilus
+terrestrial,42659,Udeniomyces megalosporus,GCA_039545415.1,Basidiomycota,Tremellomycetes,Udeniomyces
+terrestrial,2068111,uncultured Malasseziomycetes,GCA_937901545.1,Basidiomycota,Malasseziomycetes,NA
+terrestrial,227714,uncultured Tremellales,GCA_937902615.1,Basidiomycota,Tremellomycetes,NA
+terrestrial,882926,Ustilago curta,GCA_928722295.1,Basidiomycota,Ustilaginomycetes,Ustilago
+terrestrial,185366,Ustilago esculenta,GCA_000819925.1,Basidiomycota,Ustilaginomycetes,Ustilago
+terrestrial,2031085,Ustilago loliicola,GCA_022963135.1,Basidiomycota,Ustilaginomycetes,Ustilago
+terrestrial,327080,Ustilago shanxiensis,GCA_019972555.1,Basidiomycota,Ustilaginomycetes,Ustilago
+terrestrial,117174,Ustilago tritici,GCA_022963115.1,Basidiomycota,Ustilaginomycetes,Ustilago
+terrestrial,181172,Vanrija albida,GCA_041260175.1,Basidiomycota,Tremellomycetes,Vanrija
+terrestrial,706473,Volvariella volvacea V23,GCA_000349905.1,Basidiomycota,Agaricomycetes,Volvariella
+terrestrial,3095618,Wakefieldia striispora,GCA_038090475.1,Basidiomycota,Agaricomycetes,Wakefieldia
+terrestrial,1299270,Wallemia ichthyophaga EXF-994,GCA_000400465.1,Basidiomycota,Wallemiomycetes,Wallemia
+terrestrial,742152,Wolfiporia cocos MD-104 SS10,GCA_000344635.1,Basidiomycota,Agaricomycetes,Wolfiporia
+terrestrial,2788929,Wolfiporia hoelen,GCA_043792045.1,Basidiomycota,Agaricomycetes,Wolfiporia
+terrestrial,3134626,Xanthoconium sp. NY2686029,GCA_041721995.1,Basidiomycota,Agaricomycetes,Xanthoconium
+terrestrial,1758876,Xerocomellus dryophilus,GCA_038089495.1,Basidiomycota,Agaricomycetes,Xerocomellus
+terrestrial,336813,Xerocomus ferrugineus,GCA_038092635.1,Basidiomycota,Agaricomycetes,Xerocomus
+terrestrial,1745186,Xerocomus spinulosus,GCA_038094515.1,Basidiomycota,Agaricomycetes,Xerocomus
+terrestrial,1089193,Zangia roseola,GCA_038090095.1,Basidiomycota,Agaricomycetes,Zangia
+terrestrial,64504,Allomyces arbusculus,GCA_027604705.1,Blastocladiomycota,Blastocladiomycetes,Allomyces
+terrestrial,64505,Allomyces javanicus,GCA_027604645.1,Blastocladiomycota,Blastocladiomycetes,Allomyces
+terrestrial,578462,Allomyces macrogynus ATCC 38327,GCA_000151295.1,Blastocladiomycota,Blastocladiomycetes,Allomyces
+terrestrial,64508,Blastocladiella britannica,GCA_025349905.2,Blastocladiomycota,Blastocladiomycetes,Blastocladiella
+terrestrial,1313167,Blastocladiella emersonii ATCC 22665,GCA_025594325.1,Blastocladiomycota,Blastocladiomycetes,Blastocladiella
+terrestrial,765915,Catenaria anguillulae PL171,GCA_002102555.1,Blastocladiomycota,Blastocladiomycetes,Catenaria
+terrestrial,945690,Coelomomyces lativittatus,GCA_026937265.1,Blastocladiomycota,Blastocladiomycetes,Coelomomyces
+terrestrial,1500003,Paraphysoderma sedebokerense,GCA_048544345.1,Blastocladiomycota,Physodermatomycetes,Paraphysoderma
+terrestrial,3075319,Sorochytrium milnesiophthora,GCA_051624525.1,Blastocladiomycota,Blastocladiomycetes,Sorochytrium
+terrestrial,911321,Calcarisporiella thermophila,GCF_041956535.1,Calcarisporiellomycota,Calcarisporiellomycetes,Calcarisporiella
+marine,2058121,Lobulomycetales sp.,GCA_046254935.1,Chytridiomycota,Chytridiomycetes,NA
+terrestrial,109871,Batrachochytrium dendrobatidis,GCA_048537975.1,Chytridiomycota,Chytridiomycetes,Batrachochytrium
+terrestrial,1357716,Batrachochytrium salamandrivorans,GCA_044508915.1,Chytridiomycota,Chytridiomycetes,Batrachochytrium
+terrestrial,388810,Blyttiomyces helicus,GCA_003614705.1,Chytridiomycota,Chytridiomycetes,Blyttiomyces
+terrestrial,2724214,Blyttiomyces sp. JEL0837,GCA_027604625.1,Chytridiomycota,Chytridiomycetes,Blyttiomyces
+terrestrial,261099,Boothiomyces macroporosus,GCA_027604185.1,Chytridiomycota,Chytridiomycetes,Boothiomyces
+terrestrial,2735257,Borealophlyctis nickersoniae,GCA_027604605.1,Chytridiomycota,Chytridiomycetes,Borealophlyctis
+terrestrial,1555241,Caulochytrium protostelioides,GCA_003615045.1,Chytridiomycota,Caulochytriomycetes,Caulochytrium
+terrestrial,2786947,Chytridiales sp. JEL 0842,GCA_027604305.1,Chytridiomycota,Chytridiomycetes,NA
+terrestrial,2012386,Chytridiomycetes sp.,GCA_023347045.1,Chytridiomycota,Chytridiomycetes,NA
+terrestrial,64509,Chytridium lagenaria,GCA_025449115.1,Chytridiomycota,Chytridiomycetes,Chytridium
+terrestrial,1907226,Chytriomyces cf. hyalinus JEL632,GCA_025435555.1,Chytridiomycota,Chytridiomycetes,Chytriomyces
+terrestrial,246404,Chytriomyces confervae,GCA_006535975.1,Chytridiomycota,Chytridiomycetes,Chytriomyces
+terrestrial,4814,Chytriomyces hyalinus,GCA_027604105.1,Chytridiomycota,Chytridiomycetes,Chytriomyces
+terrestrial,4814,Chytriomyces hyalinus,GCA_027604085.1,Chytridiomycota,Chytridiomycetes,Chytriomyces
+terrestrial,4814,Chytriomyces hyalinus,GCA_027604165.1,Chytridiomycota,Chytridiomycetes,Chytriomyces
+terrestrial,4814,Chytriomyces hyalinus,GCA_027604745.1,Chytridiomycota,Chytridiomycetes,Chytriomyces
+terrestrial,1882861,Chytriomyces sp. MP71,GCA_025201725.1,Chytridiomycota,Chytridiomycetes,Chytriomyces
+terrestrial,109936,Cladochytrium replicatum,GCA_025526935.1,Chytridiomycota,Chytridiomycetes,Cladochytrium
+terrestrial,1604274,Cladochytrium tenue,GCA_026954515.1,Chytridiomycota,Chytridiomycetes,Cladochytrium
+terrestrial,447962,Clydaea vesicula,GCA_027604065.1,Chytridiomycota,Chytridiomycetes,Clydaea
+terrestrial,1774096,Dinochytrium kinnereticum,GCA_027604005.1,Chytridiomycota,Chytridiomycetes,Dinochytrium
+terrestrial,281842,Entophlyctis helioformis,GCA_025526915.1,Chytridiomycota,Chytridiomycetes,Entophlyctis
+terrestrial,109932,Entophlyctis luteolus,GCA_027603655.1,Chytridiomycota,Chytridiomycetes,Entophlyctis
+terrestrial,2724211,Entophlyctis sp. JEL0112,GCA_027604545.1,Chytridiomycota,Chytridiomycetes,Entophlyctis
+terrestrial,1396493,Fimicolochytrium jonesii,GCA_025526975.1,Chytridiomycota,Chytridiomycetes,Fimicolochytrium
+terrestrial,109897,Gaertneriomyces semiglobifer,GCA_025558075.1,Chytridiomycota,Chytridiomycetes,Gaertneriomyces
+terrestrial,2724198,Gaertneriomyces sp. JEL0708,GCA_027603645.1,Chytridiomycota,Chytridiomycetes,Gaertneriomyces
+terrestrial,1134077,Geranomyces michiganensis,GCA_027602005.1,Chytridiomycota,Chytridiomycetes,Geranomyces
+terrestrial,109894,Geranomyces variabilis,GCA_027603065.1,Chytridiomycota,Chytridiomycetes,Geranomyces
+terrestrial,382532,Globomyces pollinis-pini,GCA_025399215.1,Chytridiomycota,Chytridiomycetes,Globomyces
+terrestrial,2786946,Globomyces sp. JEL0801,GCA_027595885.1,Chytridiomycota,Chytridiomycetes,Globomyces
+terrestrial,382530,Gorgonomyces haynaldii,GCA_025526955.1,Chytridiomycota,Chytridiomycetes,Gorgonomyces
+terrestrial,166479,Homolaphlyctis polyrhiza JEL 142,GCA_000235945.1,Chytridiomycota,Chytridiomycetes,Homolaphlyctis
+terrestrial,109884,Irineochytrium annulatum,GCA_027600665.1,Chytridiomycota,Chytridiomycetes,Irineochytrium
+terrestrial,2724210,Kappamyces sp. JEL0680,GCA_027604405.1,Chytridiomycota,Chytridiomycetes,Kappamyces
+terrestrial,2724216,Kappamyces sp. JEL0829,GCA_027604465.1,Chytridiomycota,Chytridiomycetes,Kappamyces
+terrestrial,109889,Lobulomyces angularis,GCA_027604685.1,Chytridiomycota,Chytridiomycetes,Lobulomyces
+terrestrial,2058121,Lobulomycetales sp.,GCA_046254935.1,Chytridiomycota,Chytridiomycetes,NA
+terrestrial,2732417,Nowakowskiella sp. JEL0078,GCA_026955015.1,Chytridiomycota,Chytridiomycetes,Nowakowskiella
+terrestrial,2732418,Nowakowskiella sp. JEL0407,GCA_027600645.1,Chytridiomycota,Chytridiomycetes,Nowakowskiella
+terrestrial,110081,Obelidium mucronatum,GCA_025765595.1,Chytridiomycota,Chytridiomycetes,Obelidium
+terrestrial,1117335,Phlyctochytrium arcticum,GCA_025602905.1,Chytridiomycota,Chytridiomycetes,Phlyctochytrium
+terrestrial,1352834,Phlyctochytrium bullatum,GCA_027597005.1,Chytridiomycota,Chytridiomycetes,Phlyctochytrium
+terrestrial,261098,Phlyctochytrium planicorne,GCA_027600675.1,Chytridiomycota,Chytridiomycetes,Phlyctochytrium
+terrestrial,109957,Physocladia obscura,GCA_027596945.1,Chytridiomycota,Chytridiomycetes,Physocladia
+terrestrial,2724200,Podochytrium sp. JEL0797,GCA_027596195.1,Chytridiomycota,Chytridiomycetes,Podochytrium
+terrestrial,110093,Polychytrium aggregatum,GCA_025602895.1,Chytridiomycota,Chytridiomycetes,Polychytrium
+terrestrial,2732419,Polyrhizophydium stewartii,GCA_027604665.2,Chytridiomycota,Chytridiomycetes,Polyrhizophydium
+terrestrial,109895,Powellomyces hirtus,GCA_025526995.1,Chytridiomycota,Chytridiomycetes,Powellomyces
+terrestrial,2654861,Quaeritorhiza haematococci,GCA_027596845.1,Chytridiomycota,Chytridiomycetes,Quaeritorhiza
+terrestrial,329046,Rhizoclosmatium globosum,GCA_002104985.1,Chytridiomycota,Chytridiomycetes,Rhizoclosmatium
+terrestrial,2724196,Rhizoclosmatium hyalinum,GCA_027596175.1,Chytridiomycota,Chytridiomycetes,Rhizoclosmatium
+terrestrial,2784343,Rhizoclosmatium sp. JEL0117,GCA_027604365.1,Chytridiomycota,Chytridiomycetes,Rhizoclosmatium
+terrestrial,64517,Rhizophlyctis rosea,GCA_027596075.1,Chytridiomycota,Chytridiomycetes,Rhizophlyctis
+terrestrial,2723227,Siphonaria sp. JEL0065,GCA_027596065.1,Chytridiomycota,Chytridiomycetes,Siphonaria
+terrestrial,645134,Spizellomyces punctatus DAOM BR117,GCA_000182565.2,Chytridiomycota,Chytridiomycetes,Spizellomyces
+terrestrial,117820,Spizellomyces sp. 'palustris',GCA_006535965.1,Chytridiomycota,Chytridiomycetes,Spizellomyces
+terrestrial,286115,Synchytrium endobioticum,GCA_001399855.1,Chytridiomycota,Chytridiomycetes,Synchytrium
+terrestrial,1806994,Synchytrium microbalum,GCA_006535985.1,Chytridiomycota,Chytridiomycetes,Synchytrium
+terrestrial,2724204,Terramyces sp. JEL0728,GCA_027603945.1,Chytridiomycota,Chytridiomycetes,Terramyces
+terrestrial,1396496,Thoreauomyces humboldtii,GCA_027596035.1,Chytridiomycota,Chytridiomycetes,Thoreauomyces
+terrestrial,2211651,Zopfochytrium polystomum,GCA_025765615.1,Chytridiomycota,Chytridiomycetes,Zopfochytrium
+terrestrial,3241175,Zygophlyctis sp. KS116,GCA_054661495.1,Chytridiomycota,Chytridiomycetes,Zygophlyctis
+terrestrial,1167838,Capillidium heterosporum,GCA_016630905.1,Entomophthoromycota,Entomophthoromycetes,Capillidium
+terrestrial,181046,Capillidium rhysosporum,GCA_037055185.1,Entomophthoromycota,Entomophthoromycetes,Capillidium
+terrestrial,34488,Conidiobolus coronatus,GCA_051363225.1,Entomophthoromycota,Entomophthoromycetes,Conidiobolus
+terrestrial,796925,Conidiobolus coronatus NRRL 28638,GCA_001566745.1,Entomophthoromycota,Entomophthoromycetes,Conidiobolus
+terrestrial,1357681,Conidiobolus incongruus B7586,GCA_000697335.1,Entomophthoromycota,Entomophthoromycetes,Conidiobolus
+terrestrial,164418,Conidiobolus obscurus,GCA_030770535.1,Entomophthoromycota,Entomophthoromycetes,Conidiobolus
+terrestrial,34485,Entomophthora muscae,GCA_014839935.2,Entomophthoromycota,Entomophthoromycetes,Entomophthora
+terrestrial,348617,Massospora cicadina,GCA_006912075.1,Entomophthoromycota,Entomophthoromycetes,Massospora
+terrestrial,2213018,Massospora platypediae,GCA_006912095.1,Entomophthoromycota,Entomophthoromycetes,Massospora
+terrestrial,1314799,Neoconidiobolus thromboides FSU 785,GCA_025603075.1,Entomophthoromycota,Entomophthoromycetes,Neoconidiobolus
+terrestrial,27376,Acaulospora colombiana,GCA_910592055.1,Glomeromycota,Glomeromycetes,Acaulospora
+terrestrial,94023,Acaulospora morrowiae,GCA_910591835.1,Glomeromycota,Glomeromycetes,Acaulospora
+terrestrial,144530,Ambispora gerdemannii,GCA_910591945.1,Glomeromycota,Glomeromycetes,Ambispora
+terrestrial,144679,Ambispora leptoticha,GCA_910591765.1,Glomeromycota,Glomeromycetes,Ambispora
+terrestrial,1433469,Cetraspora pellucida,GCA_910591925.1,Glomeromycota,Glomeromycetes,Cetraspora
+terrestrial,1348616,Dentiscutata erythropus,GCA_910591965.1,Glomeromycota,Glomeromycetes,Dentiscutata
+terrestrial,1316150,Dentiscutata heterogama,GCA_910591775.1,Glomeromycota,Glomeromycetes,Dentiscutata
+terrestrial,1213867,Diversispora eburnea,GCA_910592015.1,Glomeromycota,Glomeromycetes,Diversispora
+terrestrial,1348612,Diversispora epigaea,GCA_003547095.1,Glomeromycota,Glomeromycetes,Diversispora
+terrestrial,984092,Entrophospora candida,GCA_958449915.1,Glomeromycota,Glomeromycetes,Entrophospora
+terrestrial,2562287,Entrophospora sp. SA101,GCA_958450125.1,Glomeromycota,Glomeromycetes,Entrophospora
+terrestrial,1117310,Funneliformis caledonium,GCA_910591825.1,Glomeromycota,Glomeromycetes,Funneliformis
+terrestrial,1117311,Funneliformis geosporum,GCA_946474995.1,Glomeromycota,Glomeromycetes,Funneliformis
+terrestrial,27381,Funneliformis mosseae,GCA_910592005.1,Glomeromycota,Glomeromycetes,Funneliformis
+terrestrial,50956,Geosiphon pyriformis,GCA_016748015.1,Glomeromycota,Glomeromycetes,Geosiphon
+terrestrial,4874,Gigaspora margarita,GCA_009809945.1,Glomeromycota,Glomeromycetes,Gigaspora
+terrestrial,44941,Gigaspora rosea,GCA_910592045.1,Glomeromycota,Glomeromycetes,Gigaspora
+terrestrial,658196,Glomus cerebriforme,GCA_003550305.1,Glomeromycota,Glomeromycetes,Glomus
+terrestrial,118614,Oehlia diaphana,GCA_003833135.1,Glomeromycota,Glomeromycetes,Oehlia
+terrestrial,144538,Paraglomus brasilianum,GCA_910592345.1,Glomeromycota,Glomeromycetes,Paraglomus
+terrestrial,144539,Paraglomus occultum,GCA_022605545.1,Glomeromycota,Glomeromycetes,Paraglomus
+terrestrial,60492,Racocetra fulgida,GCA_910592135.1,Glomeromycota,Glomeromycetes,Racocetra
+terrestrial,160502,Racocetra persica,GCA_910592285.1,Glomeromycota,Glomeromycetes,Racocetra
+terrestrial,94130,Rhizophagus clarus,GCA_003203555.1,Glomeromycota,Glomeromycetes,Rhizophagus
+terrestrial,588596,Rhizophagus irregularis,GCA_020716765.1,Glomeromycota,Glomeromycetes,Rhizophagus
+terrestrial,747089,Rhizophagus irregularis DAOM 181602=DAOM 197198,GCA_002897155.2,Glomeromycota,Glomeromycetes,Rhizophagus
+terrestrial,1432141,Rhizophagus irregularis DAOM 197198w,GCA_000597585.1,Glomeromycota,Glomeromycetes,Rhizophagus
+terrestrial,2650738,Rhizophagus prolifer,GCA_019425655.1,Glomeromycota,Glomeromycetes,Rhizophagus
+terrestrial,2792439,Rhizophagus sp. LPA8_1_AMF,GCA_021464375.1,Glomeromycota,Glomeromycetes,Rhizophagus
+terrestrial,2792440,Rhizophagus sp. LPA8_3_AMF,GCA_021464405.1,Glomeromycota,Glomeromycetes,Rhizophagus
+terrestrial,2792441,Rhizophagus sp. LPA8_4_AMF,GCA_021464525.1,Glomeromycota,Glomeromycetes,Rhizophagus
+terrestrial,1803374,Rhizophagus sp. MUCL 43196,GCA_003549995.1,Glomeromycota,Glomeromycetes,Rhizophagus
+terrestrial,85575,Scutellospora calospora,GCA_910592325.1,Glomeromycota,Glomeromycetes,Scutellospora
+terrestrial,4885,Capniomyces stellatus,GCA_001661515.1,Kickxellomycota,Harpellomycetes,Capniomyces
+terrestrial,417176,Coemansia aciculifera,GCA_027579385.1,Kickxellomycota,Kickxellomycetes,Coemansia
+terrestrial,1052880,Coemansia asiatica,GCA_027579625.1,Kickxellomycota,Kickxellomycetes,Coemansia
+terrestrial,1286918,Coemansia biformis,GCA_027595825.1,Kickxellomycota,Kickxellomycetes,Coemansia
+terrestrial,2650707,Coemansia brasiliensis,GCA_027579605.1,Kickxellomycota,Kickxellomycetes,Coemansia
+terrestrial,147472,Coemansia erecta,GCA_027574685.1,Kickxellomycota,Kickxellomycetes,Coemansia
+terrestrial,417177,Coemansia furcata,GCA_027579325.1,Kickxellomycota,Kickxellomycetes,Coemansia
+terrestrial,2761395,Coemansia guatemalensis,GCA_027579505.1,Kickxellomycota,Kickxellomycetes,Coemansia
+terrestrial,1286919,Coemansia helicoidea,GCA_027579315.1,Kickxellomycota,Kickxellomycetes,Coemansia
+terrestrial,1126814,Coemansia interrupta,GCA_027579055.1,Kickxellomycota,Kickxellomycetes,Coemansia
+terrestrial,2761396,Coemansia javaensis,GCA_027579115.1,Kickxellomycota,Kickxellomycetes,Coemansia
+terrestrial,2663919,Coemansia linderi,GCA_027579275.1,Kickxellomycota,Kickxellomycetes,Coemansia
+terrestrial,4864,Coemansia mojavensis,GCA_025766245.1,Kickxellomycota,Kickxellomycetes,Coemansia
+terrestrial,2789366,Coemansia nantahalensis,GCA_027579095.1,Kickxellomycota,Kickxellomycetes,Coemansia
+terrestrial,1052879,Coemansia pectinata,GCA_027579255.1,Kickxellomycota,Kickxellomycetes,Coemansia
+terrestrial,763665,Coemansia reversa NRRL 1564,GCA_002705745.1,Kickxellomycota,Kickxellomycetes,Coemansia
+terrestrial,327750,Coemansia sp. 'formosensis',GCA_027579295.1,Kickxellomycota,Kickxellomycetes,Coemansia
+terrestrial,417178,Coemansia spiralis,GCA_027578895.1,Kickxellomycota,Kickxellomycetes,Coemansia
+terrestrial,2663907,Coemansia thaxteri,GCA_027577035.1,Kickxellomycota,Kickxellomycetes,Coemansia
+terrestrial,1424467,Coemansia umbellata,GCA_027576975.1,Kickxellomycota,Kickxellomycetes,Coemansia
+terrestrial,215637,Dimargaris cristalligena,GCA_027576995.1,Kickxellomycota,Dimargaritomycetes,Dimargaris
+terrestrial,2761393,Dimargaris verticillata,GCA_027576935.1,Kickxellomycota,Dimargaritomycetes,Dimargaris
+terrestrial,2761399,Dimargaris xerosporica,GCA_027576955.1,Kickxellomycota,Dimargaritomycetes,Dimargaris
+terrestrial,4866,Dipsacomyces acuminosporus,GCA_027576915.1,Kickxellomycota,Kickxellomycetes,Dipsacomyces
+terrestrial,1520584,Dispira parvispora,GCA_027577015.1,Kickxellomycota,Dimargaritomycetes,Dispira
+terrestrial,2789359,Dispira simplex,GCA_027478255.1,Kickxellomycota,Dimargaritomycetes,Dispira
+terrestrial,61424,Furculomyces boomerangus,GCA_003086725.1,Kickxellomycota,Harpellomycetes,Furculomyces
+terrestrial,61397,Kickxella alabastrina,GCA_025024165.1,Kickxellomycota,Kickxellomycetes,Kickxella
+terrestrial,4868,Linderina macrospora,GCA_027575855.1,Kickxellomycota,Kickxellomycetes,Linderina
+terrestrial,61395,Linderina pennispora,GCA_027575835.1,Kickxellomycota,Kickxellomycetes,Linderina
+terrestrial,61414,Martensiomyces pterosporus,GCA_025201845.1,Kickxellomycota,Kickxellomycetes,Martensiomyces
+terrestrial,417184,Mycoemilia scoparia,GCA_027575805.1,Kickxellomycota,Kickxellomycetes,Mycoemilia
+terrestrial,304332,Ramicandelaber brevisporus,GCA_025201865.1,Kickxellomycota,NA,Ramicandelaber
+terrestrial,133377,Smittium angustum,GCA_003097675.1,Kickxellomycota,Harpellomycetes,Smittium
+terrestrial,133412,Smittium culicis,GCA_001970865.1,Kickxellomycota,Harpellomycetes,Smittium
+terrestrial,133381,Smittium megazygosporum,GCA_003086715.1,Kickxellomycota,Harpellomycetes,Smittium
+terrestrial,3234839,Smittium minutisporum,GCA_045269135.1,Kickxellomycota,Harpellomycetes,Smittium
+terrestrial,133383,Smittium mucronatum,GCA_001953115.1,Kickxellomycota,Harpellomycetes,Smittium
+terrestrial,133385,Smittium simulii,GCA_003086735.1,Kickxellomycota,Harpellomycetes,Smittium
+terrestrial,68401,Spiromyces aspiralis,GCA_027478575.1,Kickxellomycota,Kickxellomycetes,Spiromyces
+terrestrial,78921,Tieghemiomyces parasiticus,GCA_027575765.1,Kickxellomycota,Dimargaritomycetes,Tieghemiomyces
+terrestrial,1213189,Zancudomyces culisetae,GCA_001969505.1,Kickxellomycota,Harpellomycetes,Zancudomyces
+marine,1866961,Amphiamblys sp. WSBS2006,GCA_001875675.1,Microsporidia,NA,Amphiamblys
+marine,51541,Spraguea lophii,GCA_001887945.1,Microsporidia,NA,Spraguea
+marine,51541,Spraguea lophii,GCA_001887975.1,Microsporidia,NA,Spraguea
+marine,51541,Spraguea lophii,GCA_001888035.1,Microsporidia,NA,Spraguea
+marine,51541,Spraguea lophii,GCA_011074975.1,Microsporidia,NA,Spraguea
+marine,3039483,Ordospora pajunii,GCA_021821965.1,Microsporidia,NA,Ordospora
+marine,3039483,Ordospora pajunii,GCF_021821965.1,Microsporidia,NA,Ordospora
+terrestrial,2984836,Agmasoma carcini (nom. nud.),GCA_029231695.1,Microsporidia,NA,Agmasoma
+terrestrial,3367401,Albopleistophora grylli,GCA_043388365.1,Microsporidia,NA,Albopleistophora
+terrestrial,3037678,Alternosema astaquatica,GCA_030386735.1,Microsporidia,NA,Alternosema
+terrestrial,3417506,Amblyosporidae sp. gmOTU1 Ox002633,GCA_985568275.1,Microsporidia,NA,NA
+terrestrial,3417509,Amblyosporidae sp. gmOTU2 SAN22000470,GCA_984766085.1,Microsporidia,NA,NA
+terrestrial,1866961,Amphiamblys sp. WSBS2006,GCA_001875675.1,Microsporidia,NA,Amphiamblys
+terrestrial,67680,Anncaliia algerae,GCA_000313815.1,Microsporidia,NA,Anncaliia
+terrestrial,1240240,Anncaliia algerae PRA109,GCA_000385855.2,Microsporidia,NA,Anncaliia
+terrestrial,1288291,Anncaliia algerae PRA339,GCA_000385875.2,Microsporidia,NA,Anncaliia
+terrestrial,278021,Antonospora locustae,GCA_007674295.1,Microsporidia,NA,Antonospora
+terrestrial,3157660,Areospora rohanae,GCA_056822185.1,Microsporidia,NA,Areospora
+terrestrial,164912,Astathelohania contejeani,GCA_014805555.1,Microsporidia,NA,Astathelohania
+terrestrial,478975,Binucleata daphniae,GCA_052576015.1,Microsporidia,NA,Binucleata
+terrestrial,2483382,Conglomerata obtusa,GCA_052575995.1,Microsporidia,NA,Conglomerata
+terrestrial,658444,Cucumispora dikerogammari,GCA_014805705.1,Microsporidia,NA,Cucumispora
+terrestrial,279532,Dictyocoela muelleri,GCA_016256075.1,Microsporidia,NA,Dictyocoela
+terrestrial,288439,Dictyocoela roeselum,GCA_016255985.1,Microsporidia,NA,Dictyocoela
+terrestrial,646526,Ecytonucleospora hepatopenaei,GCA_038502045.1,Microsporidia,NA,Ecytonucleospora
+terrestrial,1003232,Edhazardia aedis USNM 41457,GCA_000230595.3,Microsporidia,NA,Edhazardia
+terrestrial,6035,Encephalitozoon cuniculi,GCA_027571585.1,Microsporidia,NA,Encephalitozoon
+terrestrial,986730,Encephalitozoon cuniculi EC1,GCA_000221285.2,Microsporidia,NA,Encephalitozoon
+terrestrial,989654,Encephalitozoon cuniculi EC2,GCA_000221265.2,Microsporidia,NA,Encephalitozoon
+terrestrial,989655,Encephalitozoon cuniculi EC3,GCA_000221245.2,Microsporidia,NA,Encephalitozoon
+terrestrial,1355160,Encephalitozoon cuniculi EcunIII-L,GCA_001078035.1,Microsporidia,NA,Encephalitozoon
+terrestrial,284813,Encephalitozoon cuniculi GB-M1,GCF_000091225.2,Microsporidia,NA,Encephalitozoon
+terrestrial,27973,Encephalitozoon hellem,GCA_029215505.1,Microsporidia,NA,Encephalitozoon
+terrestrial,907965,Encephalitozoon hellem ATCC 50504,GCA_000277815.3,Microsporidia,NA,Encephalitozoon
+terrestrial,58839,Encephalitozoon intestinalis,GCA_051312795.1,Microsporidia,NA,Encephalitozoon
+terrestrial,876142,Encephalitozoon intestinalis ATCC 50506,GCF_000146465.1,Microsporidia,NA,Encephalitozoon
+terrestrial,1178016,Encephalitozoon romaleae SJ-2008,GCA_000280035.2,Microsporidia,NA,Encephalitozoon
+terrestrial,3417535,Encephalitozoon sp. gmOTU3 Ox001895,GCA_986194495.1,Microsporidia,NA,Encephalitozoon
+terrestrial,3417536,Encephalitozoon sp. gmOTU3 Ox002250,GCA_986195105.1,Microsporidia,NA,Encephalitozoon
+terrestrial,1333699,Enterocytospora artemiae,GCA_038659295.1,Microsporidia,NA,Enterocytospora
+terrestrial,481877,Enterocytozoon bieneusi H348,GCA_000209485.1,Microsporidia,NA,Enterocytozoon
+terrestrial,3417537,Enterocytozoonidae sp. gmOTU24 Ox000445,GCA_986194475.1,Microsporidia,NA,NA
+terrestrial,3417538,Enterocytozoonidae sp. gmOTU25 NHMUK014425822,GCA_985568305.1,Microsporidia,NA,NA
+terrestrial,3417540,Enterocytozoonidae sp. gmOTU27 Ox002306,GCA_985805835.1,Microsporidia,NA,NA
+terrestrial,1912989,Enteropsectra breve,GCA_024243835.1,Microsporidia,NA,Enteropsectra
+terrestrial,1081671,Enterospora canceri,GCA_002087915.1,Microsporidia,NA,Enterospora
+terrestrial,174680,Glugoides intestinalis,GCA_052576065.1,Microsporidia,NA,Glugoides
+terrestrial,174688,Gurleya vavrai,GCA_052575965.1,Microsporidia,NA,Gurleya
+terrestrial,148818,Hamiltosporidium magnivora,GCA_004325035.1,Microsporidia,NA,Hamiltosporidium
+terrestrial,1176355,Hamiltosporidium tvaerminnensis,GCA_022605425.2,Microsporidia,NA,Hamiltosporidium
+terrestrial,1081669,Hepatospora eriocheir,GCA_002087885.1,Microsporidia,NA,Hepatospora
+terrestrial,2248764,Metchnikovella incurvata,GCA_003600395.1,Microsporidia,NA,Metchnikovella
+terrestrial,2715920,Microsporidia sp. MB,GCA_049634785.1,Microsporidia,NA,NA
+terrestrial,1485682,Mitosporidium daphniae,GCA_052576055.1,Microsporidia,NA,Mitosporidium
+terrestrial,1913371,Nematocida ausubeli,GCA_024243685.1,Microsporidia,NA,Nematocida
+terrestrial,1805483,Nematocida displodere,GCA_001642395.1,Microsporidia,NA,Nematocida
+terrestrial,1912981,Nematocida homosporus,GCA_024244095.1,Microsporidia,NA,Nematocida
+terrestrial,1805481,Nematocida ironsii,GCA_001642415.1,Microsporidia,NA,Nematocida
+terrestrial,1912982,Nematocida major,GCF_021653875.1,Microsporidia,NA,Nematocida
+terrestrial,1912983,Nematocida minor,GCA_024244105.1,Microsporidia,NA,Nematocida
+terrestrial,586133,Nematocida parisii,GCA_024243795.1,Microsporidia,NA,Nematocida
+terrestrial,881290,Nematocida parisii ERTm1,GCF_000250985.1,Microsporidia,NA,Nematocida
+terrestrial,935791,Nematocida parisii ERTm3,GCA_000190615.1,Microsporidia,NA,Nematocida
+terrestrial,2670344,Nematocida sp. AWRm77,GCA_024244115.1,Microsporidia,NA,Nematocida
+terrestrial,2670341,Nematocida sp. AWRm78,GCA_024244055.1,Microsporidia,NA,Nematocida
+terrestrial,2670342,Nematocida sp. AWRm79,GCA_024243935.1,Microsporidia,NA,Nematocida
+terrestrial,2670343,Nematocida sp. AWRm80,GCA_024244045.1,Microsporidia,NA,Nematocida
+terrestrial,2670338,Nematocida sp. LUAm1,GCA_024244035.1,Microsporidia,NA,Nematocida
+terrestrial,2670339,Nematocida sp. LUAm2,GCA_024244025.1,Microsporidia,NA,Nematocida
+terrestrial,2670340,Nematocida sp. LUAm3,GCA_024243985.1,Microsporidia,NA,Nematocida
+terrestrial,3121251,Nosema astafloridana,GCA_046563065.1,Microsporidia,NA,Nosema
+terrestrial,578461,Nosema bombycis CQ1,GCA_000383075.1,Microsporidia,NA,Nosema
+terrestrial,83296,Nosema granulosis,GCA_015832245.1,Microsporidia,NA,Nosema
+terrestrial,2873936,Nosema muscidifuracis,GCA_028335825.1,Microsporidia,NA,Nosema
+terrestrial,3121250,Nosema rusticus,GCA_046563365.1,Microsporidia,NA,Nosema
+terrestrial,3417530,Nosema sp. gmOTU19 Ox001795,GCA_986191025.1,Microsporidia,NA,Nosema
+terrestrial,3417533,Nosema sp. gmOTU22 Ox000071,GCA_986195055.1,Microsporidia,NA,Nosema
+terrestrial,3404847,Nosema wisconsonii,GCA_046562965.1,Microsporidia,NA,Nosema
+terrestrial,1300064,Nucleospora cyclopteri,GCA_049996435.1,Microsporidia,NA,Nucleospora
+terrestrial,174685,Ordospora colligata,GCA_004324945.1,Microsporidia,NA,Ordospora
+terrestrial,1354746,Ordospora colligata OC4,GCA_000803265.1,Microsporidia,NA,Ordospora
+terrestrial,3039483,Ordospora pajunii,GCF_021821965.1,Microsporidia,NA,Ordospora
+terrestrial,1938578,Pancytospora epiphaga,GCA_024243955.1,Microsporidia,NA,Pancytospora
+terrestrial,1923975,Pancytospora philotis,GCA_023647555.1,Microsporidia,NA,Pancytospora
+terrestrial,146866,Pseudoloma neurophilia,GCA_001432165.1,Microsporidia,NA,Pseudoloma
+terrestrial,51541,Spraguea lophii,GCA_011074945.1,Microsporidia,NA,Spraguea
+terrestrial,1358809,Spraguea lophii 42_110,GCA_000430065.1,Microsporidia,NA,Spraguea
+terrestrial,72359,Trachipleistophora hominis,GCA_986194805.1,Microsporidia,NA,Trachipleistophora
+terrestrial,291195,Tubulinosema ratisbonensis,GCA_004000155.1,Microsporidia,NA,Tubulinosema
+terrestrial,1037528,Vairimorpha apis BRL 01,GCA_000447185.1,Microsporidia,NA,Vairimorpha
+terrestrial,40135,Vairimorpha bombi,GCA_036780745.1,Microsporidia,NA,Vairimorpha
+terrestrial,40302,Vairimorpha ceranae,GCA_004919615.1,Microsporidia,NA,Vairimorpha
+terrestrial,578460,Vairimorpha ceranae BRL01,GCA_000182985.1,Microsporidia,NA,Vairimorpha
+terrestrial,6039,Vairimorpha necatrix,GCA_036630325.1,Microsporidia,NA,Vairimorpha
+terrestrial,3417520,Vairimorpha sp. gmOTU14 Ox002408,GCA_986194725.1,Microsporidia,NA,Vairimorpha
+terrestrial,3417523,Vairimorpha sp. gmOTU17 SAN00002588,GCA_986194575.1,Microsporidia,NA,Vairimorpha
+terrestrial,3417526,Vairimorpha sp. gmOTU4 NHMUK014451568,GCA_985803815.1,Microsporidia,NA,Vairimorpha
+terrestrial,3417525,Vairimorpha sp. gmOTU4 NHMUK015059427,GCA_985568085.1,Microsporidia,NA,Vairimorpha
+terrestrial,3417524,Vairimorpha sp. gmOTU4 Ox003106,GCA_985800635.1,Microsporidia,NA,Vairimorpha
+terrestrial,3417528,Vairimorpha sp. gmOTU5 NHMUK014536986,GCA_986195235.1,Microsporidia,NA,Vairimorpha
+terrestrial,948595,Vavraia culicis subsp. floridensis,GCF_000192795.1,Microsporidia,NA,Vavraia
+terrestrial,993615,Vittaforma corneae ATCC 50505,GCA_000231115.1,Microsporidia,NA,Vittaforma
+terrestrial,1344416,Gonapodya prolifera JEL478,GCA_001574975.1,Monoblepharomycota,Monoblepharidomycetes,Gonapodya
+terrestrial,2725673,Gonapodya sp. JEL0774,GCA_027604505.1,Monoblepharomycota,Monoblepharidomycetes,Gonapodya
+terrestrial,82268,Hyaloraphidium curvatum,GCA_025558095.1,Monoblepharomycota,Hyaloraphidiomycetes,Hyaloraphidium
+terrestrial,1343610,Actinomortierella ambigua,GCA_015849275.1,Mortierellomycota,Mortierellomycetes,Actinomortierella
+terrestrial,90253,Actinomortierella wolfii,GCA_016098105.1,Mortierellomycota,Mortierellomycetes,Actinomortierella
+terrestrial,2810443,Benniella sp.,GCA_033807495.1,Mortierellomycota,Mortierellomycetes,Benniella
+terrestrial,979702,Dissophora globulifera,GCA_016097935.1,Mortierellomycota,Mortierellomycetes,Dissophora
+terrestrial,979620,Dissophora ornata,GCA_015499975.1,Mortierellomycota,Mortierellomycetes,Dissophora
+terrestrial,979673,Entomortierella beljakovae,GCA_015679585.1,Mortierellomycota,Mortierellomycetes,Entomortierella
+terrestrial,101097,Entomortierella chlamydospora,GCA_015852335.1,Mortierellomycota,Mortierellomycetes,Entomortierella
+terrestrial,979712,Entomortierella lignicola,GCA_015500005.1,Mortierellomycota,Mortierellomycetes,Entomortierella
+terrestrial,205924,Entomortierella parvispora,GCA_963573315.1,Mortierellomycota,Mortierellomycetes,Entomortierella
+terrestrial,101098,Gamsiella multidivaricata,GCF_025024155.1,Mortierellomycota,Mortierellomycetes,Gamsiella
+terrestrial,979690,Gryganskiella cystojenkinii,GCA_015852425.1,Mortierellomycota,Mortierellomycetes,Gryganskiella
+terrestrial,1897645,Haplosporangium bisporale,GCA_015500155.1,Mortierellomycota,Mortierellomycetes,Haplosporangium
+terrestrial,2779863,Haplosporangium gracile,GCA_015499985.1,Mortierellomycota,Mortierellomycetes,Haplosporangium
+terrestrial,1897648,Haplosporangium sp. Z 11,GCA_015529505.1,Mortierellomycota,Mortierellomycetes,Haplosporangium
+terrestrial,1897644,Haplosporangium sp. Z 27,GCA_015529795.1,Mortierellomycota,Mortierellomycetes,Haplosporangium
+terrestrial,1897647,Haplosporangium sp. Z 767,GCA_015529515.1,Mortierellomycota,Mortierellomycetes,Haplosporangium
+terrestrial,743927,Linnemannia amoeboidea,GCA_023091675.1,Mortierellomycota,Mortierellomycetes,Linnemannia
+terrestrial,310910,Linnemannia elongata,GCA_036320915.1,Mortierellomycota,Mortierellomycetes,Linnemannia
+terrestrial,1314771,Linnemannia elongata AG-77,GCA_001651415.1,Mortierellomycota,Mortierellomycetes,Linnemannia
+terrestrial,604196,Linnemannia exigua,GCA_016097895.1,Mortierellomycota,Mortierellomycetes,Linnemannia
+terrestrial,1910964,Linnemannia fluviae,GCA_977013585.1,Mortierellomycota,Mortierellomycetes,Linnemannia
+terrestrial,64522,Linnemannia gamsii,GCA_016097855.1,Mortierellomycota,Mortierellomycetes,Linnemannia
+terrestrial,64524,Linnemannia hyalina,GCA_019671135.1,Mortierellomycota,Mortierellomycetes,Linnemannia
+terrestrial,64567,Linnemannia schmuckeri,GCA_029449235.1,Mortierellomycota,Mortierellomycetes,Linnemannia
+terrestrial,979765,Linnemannia zychae,GCA_015847195.1,Mortierellomycota,Mortierellomycetes,Linnemannia
+terrestrial,64571,Lobosporangium transversale,GCF_002105155.1,Mortierellomycota,Mortierellomycetes,Lobosporangium
+terrestrial,979761,Lunasporangiospora selenospora,GCA_015680635.1,Mortierellomycota,Mortierellomycetes,Lunasporangiospora
+terrestrial,1440133,Modicella reniformis,GCA_015849295.1,Mortierellomycota,Mortierellomycetes,Modicella
+terrestrial,64518,Mortierella alpina,GCA_023925345.1,Mortierellomycota,Mortierellomycetes,Mortierella
+terrestrial,685557,Mortierella alpina ATCC 32222,GCA_000240685.2,Mortierellomycota,Mortierellomycetes,Mortierella
+terrestrial,1357686,Mortierella alpina B6842,GCA_000507065.1,Mortierellomycota,Mortierellomycetes,Mortierella
+terrestrial,979670,Mortierella antarctica,GCA_015849325.1,Mortierellomycota,Mortierellomycetes,Mortierella
+terrestrial,1343614,Mortierella claussenii,GCA_022750515.1,Mortierellomycota,Mortierellomycetes,Mortierella
+terrestrial,979708,Mortierella hygrophila,GCA_015680625.1,Mortierellomycota,Mortierellomycetes,Mortierella
+terrestrial,41804,Mortierella polycephala,GCA_016098165.1,Mortierellomycota,Mortierellomycetes,Mortierella
+terrestrial,1896178,Mortierella sp. 14UC,GCA_015502465.1,Mortierellomycota,Mortierellomycetes,Mortierella
+terrestrial,1896179,Mortierella sp. AD010,GCA_015502575.1,Mortierellomycota,Mortierellomycetes,Mortierella
+terrestrial,1896180,Mortierella sp. AD011,GCA_015679695.1,Mortierellomycota,Mortierellomycetes,Mortierella
+terrestrial,1896182,Mortierella sp. AD031,GCA_015502475.1,Mortierellomycota,Mortierellomycetes,Mortierella
+terrestrial,1896183,Mortierella sp. AD032,GCA_016098025.1,Mortierellomycota,Mortierellomycetes,Mortierella
+terrestrial,1896185,Mortierella sp. AD094,GCA_015679545.1,Mortierellomycota,Mortierellomycetes,Mortierella
+terrestrial,1896186,Mortierella sp. AM989,GCA_015502455.1,Mortierellomycota,Mortierellomycetes,Mortierella
+terrestrial,2613877,Mortierella sp. BCC40632,GCA_011634665.1,Mortierellomycota,Mortierellomycetes,Mortierella
+terrestrial,1896187,Mortierella sp. GBA30,GCA_016098035.1,Mortierellomycota,Mortierellomycetes,Mortierella
+terrestrial,1896188,Mortierella sp. GBA35,GCA_015502445.1,Mortierellomycota,Mortierellomycetes,Mortierella
+terrestrial,1896189,Mortierella sp. GBA39,GCA_015502485.1,Mortierellomycota,Mortierellomycetes,Mortierella
+terrestrial,1896190,Mortierella sp. GBA43,GCA_016098045.1,Mortierellomycota,Mortierellomycetes,Mortierella
+terrestrial,1954212,Mortierella sp. GBAus27b,GCA_025330735.1,Mortierellomycota,Mortierellomycetes,Mortierella
+terrestrial,1896192,Mortierella sp. NVP41,GCA_016098085.1,Mortierellomycota,Mortierellomycetes,Mortierella
+terrestrial,1896193,Mortierella sp. NVP85,GCA_015679515.1,Mortierellomycota,Mortierellomycetes,Mortierella
+terrestrial,979688,Podila clonocystis,GCA_015852385.1,Mortierellomycota,Mortierellomycetes,Podila
+terrestrial,979697,Podila epicladia,GCA_015852495.1,Mortierellomycota,Mortierellomycetes,Podila
+terrestrial,979699,Podila epigama,GCA_015679605.1,Mortierellomycota,Mortierellomycetes,Podila
+terrestrial,311239,Podila horticola,GCA_016097925.1,Mortierellomycota,Mortierellomycetes,Podila
+terrestrial,64523,Podila humilis,GCA_016097945.1,Mortierellomycota,Mortierellomycetes,Podila
+terrestrial,64525,Podila minutissima,GCA_015679485.1,Mortierellomycota,Mortierellomycetes,Podila
+terrestrial,78898,Podila verticillata,GCA_015679595.1,Mortierellomycota,Mortierellomycetes,Podila
+terrestrial,1069443,Podila verticillata NRRL 6337,GCA_000739165.1,Mortierellomycota,Mortierellomycetes,Podila
+terrestrial,213030,Absidia cylindrospora,GCA_977092135.1,Mucoromycota,Mucoromycetes,Absidia
+terrestrial,4829,Absidia glauca,GCA_900079185.1,Mucoromycota,Mucoromycetes,Absidia
+terrestrial,2733465,Absidia healeyae,GCA_019677225.1,Mucoromycota,Mucoromycetes,Absidia
+terrestrial,90262,Absidia repens,GCA_002105175.1,Mucoromycota,Mucoromycetes,Absidia
+terrestrial,2735258,Absidia sp. UoMAU379,GCA_019677255.1,Mucoromycota,Mucoromycetes,Absidia
+terrestrial,3423207,Absidia sp. YW-2025a,GCA_050656845.1,Mucoromycota,Mucoromycetes,Absidia
+terrestrial,3423208,Absidia sp. YW-2025b,GCA_050656855.1,Mucoromycota,Mucoromycetes,Absidia
+terrestrial,64647,Actinomucor elegans,GCA_001599635.1,Mucoromycota,Mucoromycetes,Actinomucor
+terrestrial,1274791,Apophysomyces elegans B7760,GCA_000696995.1,Mucoromycota,Mucoromycetes,Apophysomyces
+terrestrial,679940,Apophysomyces ossiformis,GCA_014839865.1,Mucoromycota,Mucoromycetes,Apophysomyces
+terrestrial,2184030,Apophysomyces sp. BC1015,GCA_016097715.1,Mucoromycota,Mucoromycetes,Apophysomyces
+terrestrial,2184031,Apophysomyces sp. BC1021,GCA_016097735.1,Mucoromycota,Mucoromycetes,Apophysomyces
+terrestrial,2184029,Apophysomyces sp. BC1034,GCA_016097755.1,Mucoromycota,Mucoromycetes,Apophysomyces
+terrestrial,1274790,Apophysomyces trapeziformis B9324,GCA_000696975.1,Mucoromycota,Mucoromycetes,Apophysomyces
+terrestrial,760013,Apophysomyces variabilis,GCA_002749535.1,Mucoromycota,Mucoromycetes,Apophysomyces
+terrestrial,2583354,Backusella australiensis,GCA_024140275.1,Mucoromycota,Mucoromycetes,Backusella
+terrestrial,1314798,Backusella circina FSU 941,GCA_025399235.1,Mucoromycota,Mucoromycetes,Backusella
+terrestrial,2583357,Backusella liffmaniae,GCA_024140265.1,Mucoromycota,Mucoromycetes,Backusella
+terrestrial,2583358,Backusella luteola,GCA_024140195.1,Mucoromycota,Mucoromycetes,Backusella
+terrestrial,2583359,Backusella macrospora,GCA_024139275.1,Mucoromycota,Mucoromycetes,Backusella
+terrestrial,2583360,Backusella mclennaniae,GCA_024139405.1,Mucoromycota,Mucoromycetes,Backusella
+terrestrial,2823925,Backusella morwellensis,GCA_024139395.1,Mucoromycota,Mucoromycetes,Backusella
+terrestrial,2583362,Backusella parvicylindrica,GCA_024140155.1,Mucoromycota,Mucoromycetes,Backusella
+terrestrial,2583363,Backusella psychrophila,GCA_024139485.1,Mucoromycota,Mucoromycetes,Backusella
+terrestrial,2583356,Backusella sp. ASU-2019c,GCA_024139495.1,Mucoromycota,Mucoromycetes,Backusella
+terrestrial,2583364,Backusella tarrabulga,GCA_024139415.1,Mucoromycota,Mucoromycetes,Backusella
+terrestrial,1196560,Backusella tuberculispora,GCA_024140245.1,Mucoromycota,Mucoromycetes,Backusella
+terrestrial,2583365,Backusella westeae,GCA_024140375.1,Mucoromycota,Mucoromycetes,Backusella
+terrestrial,64631,Benjaminiella poitrasii,GCA_025766325.1,Mucoromycota,Mucoromycetes,Benjaminiella
+terrestrial,1938954,Bifiguratus adelaidae,GCA_002261195.1,Mucoromycota,Endogonomycetes,Bifiguratus
+terrestrial,4850,Blakeslea trispora,GCA_025331445.1,Mucoromycota,Mucoromycetes,Blakeslea
+terrestrial,90267,Chlamydoabsidia padenii,GCA_025330725.1,Mucoromycota,Mucoromycetes,Chlamydoabsidia
+terrestrial,101091,Choanephora cucurbitarum,GCA_025331435.1,Mucoromycota,Mucoromycetes,Choanephora
+terrestrial,127959,Choanephora infundibulifera,GCA_049334105.2,Mucoromycota,Mucoromycetes,Choanephora
+terrestrial,1195481,Circinella minor,GCA_016758965.1,Mucoromycota,Mucoromycetes,Circinella
+terrestrial,101103,Circinella umbellata,GCA_025093555.1,Mucoromycota,Mucoromycetes,Circinella
+terrestrial,90255,Cokeromyces recurvatus,GCA_025118155.1,Mucoromycota,Mucoromycetes,Cokeromyces
+terrestrial,1357676,Cokeromyces recurvatus B5483,GCA_000697235.1,Mucoromycota,Mucoromycetes,Cokeromyces
+terrestrial,155725,Cunninghamella bainieri,GCA_044232465.1,Mucoromycota,Mucoromycetes,Cunninghamella
+terrestrial,90251,Cunninghamella bertholletiae,GCA_037043795.1,Mucoromycota,Mucoromycetes,Cunninghamella
+terrestrial,1279998,Cunninghamella bertholletiae 175,GCA_000697215.1,Mucoromycota,Mucoromycetes,Cunninghamella
+terrestrial,1357680,Cunninghamella bertholletiae B7461,GCA_000697315.1,Mucoromycota,Mucoromycetes,Cunninghamella
+terrestrial,155726,Cunninghamella blakesleeana,GCA_977110925.1,Mucoromycota,Mucoromycetes,Cunninghamella
+terrestrial,76405,Cunninghamella echinulata,GCA_977110915.1,Mucoromycota,Mucoromycetes,Cunninghamella
+terrestrial,1274792,Cunninghamella elegans B9769,GCA_000697015.1,Mucoromycota,Mucoromycetes,Cunninghamella
+terrestrial,101130,Dichotomocladium elegans,GCA_025716815.1,Mucoromycota,Mucoromycetes,Dichotomocladium
+terrestrial,2340872,Endogone sp. FLAS-F59071,GCA_003990785.1,Mucoromycota,Endogonomycetes,Endogone
+terrestrial,1329386,Fennellomyces sp. T-0311,GCA_025266875.1,Mucoromycota,Mucoromycetes,Fennellomyces
+terrestrial,101096,Gilbertella persicaria,GCA_024294565.1,Mucoromycota,Mucoromycetes,Gilbertella
+terrestrial,101105,Gongronella butleri,GCA_025201375.1,Mucoromycota,Mucoromycetes,Gongronella
+terrestrial,483437,Gongronella sp. w5,GCA_001650995.1,Mucoromycota,Mucoromycetes,Gongronella
+terrestrial,101107,Halteromyces radiatus,GCF_025201355.1,Mucoromycota,Mucoromycetes,Halteromyces
+terrestrial,562976,Helicostylum pulchrum,GCA_040366295.1,Mucoromycota,Mucoromycetes,Helicostylum
+terrestrial,101127,Hesseltinella vesiculosa,GCA_002104935.1,Mucoromycota,Mucoromycetes,Hesseltinella
+terrestrial,994334,Jimgerdemannia flammicorona,GCA_003990765.1,Mucoromycota,Endogonomycetes,Jimgerdemannia
+terrestrial,324621,Jimgerdemannia lactiflua,GCA_003951145.1,Mucoromycota,Endogonomycetes,Jimgerdemannia
+terrestrial,42458,Lichtheimia corymbifera,GCA_037042095.1,Mucoromycota,Mucoromycetes,Lichtheimia
+terrestrial,1279486,Lichtheimia corymbifera 008-049,GCA_000697175.1,Mucoromycota,Mucoromycetes,Lichtheimia
+terrestrial,1357691,Lichtheimia corymbifera B2541,GCA_000697475.1,Mucoromycota,Mucoromycetes,Lichtheimia
+terrestrial,1263082,Lichtheimia corymbifera JMRC:FSU:9682,GCA_000723665.1,Mucoromycota,Mucoromycetes,Lichtheimia
+terrestrial,1314789,Lichtheimia hyalospora FSU 10163,GCA_025094155.1,Mucoromycota,Mucoromycetes,Lichtheimia
+terrestrial,688661,Lichtheimia ornata,GCA_029851405.1,Mucoromycota,Mucoromycetes,Lichtheimia
+terrestrial,688394,Lichtheimia ramosa,GCA_008728235.1,Mucoromycota,Mucoromycetes,Lichtheimia
+terrestrial,1274788,Lichtheimia ramosa B5399,GCA_000738555.1,Mucoromycota,Mucoromycetes,Lichtheimia
+terrestrial,1357685,Lichtheimia ramosa B5792,GCA_000697395.1,Mucoromycota,Mucoromycetes,Lichtheimia
+terrestrial,2939534,Lichtheimia sp. PT1902,GCA_023629895.1,Mucoromycota,Mucoromycetes,Lichtheimia
+terrestrial,91626,Mucor ambiguus,GCA_000950595.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,2021224,Mucor atramentarius,GCA_052058875.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,1095379,Mucor bainieri,GCA_052058895.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,36080,Mucor circinelloides,GCA_973907015.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,1220926,Mucor circinelloides 1006PhL,GCA_000401635.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,1274786,Mucor circinelloides B8987,GCA_000696935.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,439312,Mucor flavus,GCA_040367835.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,64491,Mucor fragilis,GCA_977110935.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,64493,Mucor hiemalis,GCA_977110905.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,1357679,Mucor indicus B7402,GCA_000697295.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,1290454,Mucor irregularis B50,GCA_000587855.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,1357689,Mucor irregularis B7584,GCA_000697435.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,1091291,Mucor lanceolatus,GCA_054123175.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,29924,Mucor lusitanicus,GCA_040256725.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,747725,Mucor lusitanicus CBS 277.49,GCA_001638945.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,29922,Mucor mucedo,GCA_025094135.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,105697,Mucor piriformis,GCA_943193625.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,97098,Mucor plumbeus,GCA_016758945.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,4841,Mucor racemosus,GCA_055471225.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,1357677,Mucor racemosus B9645,GCA_000697255.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,64648,Mucor saturninus,GCA_016758985.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,3092709,Mucor sp. M7501,GCA_037040325.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,3092728,Mucor sp. PG5414,GCA_040807105.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,708070,Mucor velutinosus,GCA_035048745.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,1274784,Mucor velutinosus B5328,GCA_000696895.1,Mucoromycota,Mucoromycetes,Mucor
+terrestrial,64632,Mycotypha africana,GCA_025528875.1,Mucoromycota,Mucoromycetes,Mycotypha
+terrestrial,35722,Parasitella parasitica,GCA_025201805.1,Mucoromycota,Mucoromycetes,Parasitella
+terrestrial,60185,Phascolomyces articulosus,GCA_025677815.1,Mucoromycota,Mucoromycetes,Phascolomyces
+terrestrial,4837,Phycomyces blakesleeanus,GCA_040209145.1,Mucoromycota,Mucoromycetes,Phycomyces
+terrestrial,763407,Phycomyces blakesleeanus NRRL 1555(-),GCA_001638985.2,Mucoromycota,Mucoromycetes,Phycomyces
+terrestrial,269771,Phycomyces nitens,GCA_022702545.1,Mucoromycota,Mucoromycetes,Phycomyces
+terrestrial,64641,Pilaira anomala,GCA_025716855.1,Mucoromycota,Mucoromycetes,Pilaira
+terrestrial,101123,Pilobolus umbonatus,GCA_025528865.1,Mucoromycota,Mucoromycetes,Pilobolus
+terrestrial,64574,Radiomyces spectabilis,GCF_025331425.1,Mucoromycota,Mucoromycetes,Radiomyces
+terrestrial,4839,Rhizomucor miehei,GCA_040807125.1,Mucoromycota,Mucoromycetes,Rhizomucor
+terrestrial,1031333,Rhizomucor miehei CAU432,GCA_000611695.1,Mucoromycota,Mucoromycetes,Rhizomucor
+terrestrial,4840,Rhizomucor pusillus,GCA_023512895.1,Mucoromycota,Mucoromycetes,Rhizomucor
+terrestrial,64495,Rhizopus arrhizus,GCA_011800985.2,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,1279478,Rhizopus arrhizus 99-133,GCA_000697135.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,1279482,Rhizopus arrhizus 99-892,GCA_000697725.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,1274785,Rhizopus arrhizus B7407,GCA_000696915.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,1279480,Rhizopus arrhizus HUMC 02,GCA_000697605.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,1279475,Rhizopus arrhizus Type I NRRL 13440,GCA_000697075.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,1279476,Rhizopus arrhizus Type I NRRL 18148,GCA_000697095.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,1279477,Rhizopus arrhizus Type I NRRL 21396,GCA_000697115.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,86630,Rhizopus azygosporus,GCA_003325435.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,936053,Rhizopus delemar,GCA_011763795.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,246409,Rhizopus delemar RA 99-880,GCA_000149305.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,1279484,Rhizopus delemar Type II NRRL 21446,GCA_000738605.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,1279483,Rhizopus delemar Type II NRRL 21447,GCA_000738595.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,1279481,Rhizopus delemar Type II NRRL 21477,GCA_000738585.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,58291,Rhizopus microsporus,GCA_000825725.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,1340429,Rhizopus microsporus ATCC 52813,GCA_002708625.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,1357678,Rhizopus microsporus B9738,GCA_000697275.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,1357688,Rhizopus microsporus var rhizopodiformus B7455,GCA_000738565.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,4843,Rhizopus microsporus var. chinensis,GCA_051997165.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,1271458,Rhizopus microsporus var. chinensis CCTCC M201021,GCA_000325505.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,86635,Rhizopus microsporus var. microsporus,GCA_051997145.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,4847,Rhizopus microsporus var. oligosporus,GCA_058380205.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,90259,Rhizopus microsporus var. rhizopodiformis,GCA_006680115.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,2528156,Rhizopus sp. FBL578,GCA_049863895.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,2950514,Rhizopus sp. PT2906,GCA_025529335.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,3697201,Rhizopus sp. TYR1,GCA_057662165.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,4846,Rhizopus stolonifer,GCA_054954275.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,4846,Rhizopus stolonifer,GCA_054954275.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,1274793,Rhizopus stolonifer B9770,GCA_000697035.1,Mucoromycota,Mucoromycetes,Rhizopus
+terrestrial,1357693,Saksenaea oblongispora B3353,GCA_000697495.1,Mucoromycota,Mucoromycetes,Saksenaea
+terrestrial,1274794,Saksenaea vasiformis B4078,GCA_000697055.1,Mucoromycota,Mucoromycetes,Saksenaea
+terrestrial,101115,Spinellus fusiger,GCA_025094145.1,Mucoromycota,Mucoromycetes,Spinellus
+terrestrial,101117,Sporodiniella umbellata,GCA_025677835.1,Mucoromycota,Mucoromycetes,Sporodiniella
+terrestrial,2570299,Syncephalastrum contaminatum,GCA_013461545.1,Mucoromycota,Mucoromycetes,Syncephalastrum
+terrestrial,101128,Syncephalastrum monosporum,GCA_023630305.1,Mucoromycota,Mucoromycetes,Syncephalastrum
+terrestrial,1357682,Syncephalastrum monosporum B8922,GCA_000697355.1,Mucoromycota,Mucoromycetes,Syncephalastrum
+terrestrial,13706,Syncephalastrum racemosum,GCA_002105135.1,Mucoromycota,Mucoromycetes,Syncephalastrum
+terrestrial,1274787,Syncephalastrum racemosum B6101,GCA_000696955.1,Mucoromycota,Mucoromycetes,Syncephalastrum
+terrestrial,2939551,Syncephalastrum sp. PYS2702,GCA_023630325.1,Mucoromycota,Mucoromycetes,Syncephalastrum
+terrestrial,2939552,Syncephalastrum sp. PYS2703,GCA_023630315.1,Mucoromycota,Mucoromycetes,Syncephalastrum
+terrestrial,101142,Thamnidium elegans,GCA_025201345.1,Mucoromycota,Mucoromycetes,Thamnidium
+terrestrial,101121,Thermomucor indicae-seudaticae,GCA_000787465.1,Mucoromycota,Mucoromycetes,Thermomucor
+terrestrial,91625,Umbelopsis isabellina,GCA_016758905.1,Mucoromycota,Umbelopsidomycetes,Umbelopsis
+terrestrial,1357687,Umbelopsis isabellina B7317,GCA_000697415.1,Mucoromycota,Umbelopsidomycetes,Umbelopsis
+terrestrial,1441051,Umbelopsis isabellina NBRC 7884,GCA_000534915.1,Mucoromycota,Umbelopsidomycetes,Umbelopsis
+terrestrial,64526,Umbelopsis nana,GCA_054906655.1,Mucoromycota,Umbelopsidomycetes,Umbelopsis
+terrestrial,41833,Umbelopsis ramanniana,GCA_977110945.1,Mucoromycota,Umbelopsidomycetes,Umbelopsis
+terrestrial,1314678,Umbelopsis ramanniana AG,GCF_025399195.1,Mucoromycota,Umbelopsidomycetes,Umbelopsis
+terrestrial,1883073,Umbelopsis sp. AD052,GCA_025677805.1,Mucoromycota,Umbelopsidomycetes,Umbelopsis
+terrestrial,3092704,Umbelopsis sp. M5902,GCA_037039815.1,Mucoromycota,Umbelopsidomycetes,Umbelopsis
+terrestrial,1896174,Umbelopsis sp. PMI_123,GCA_021235465.1,Mucoromycota,Umbelopsidomycetes,Umbelopsis
+terrestrial,3097288,Umbelopsis sp. WA50703,GCA_964291815.1,Mucoromycota,Umbelopsidomycetes,Umbelopsis
+terrestrial,44442,Umbelopsis vinacea,GCA_016758895.1,Mucoromycota,Umbelopsidomycetes,Umbelopsis
+terrestrial,64656,Zychaea mexicana,GCA_982397305.1,Mucoromycota,Mucoromycetes,Zychaea
+terrestrial,1754192,Anaeromyces robustus,GCA_002104895.1,Neocallimastigomycota,Neocallimastigomycetes,Anaeromyces
+terrestrial,2078661,Caecomyces sp.,GCA_027248405.1,Neocallimastigomycota,Neocallimastigomycetes,Caecomyces
+terrestrial,1754190,Neocallimastix californiae,GCA_975966835.1,Neocallimastigomycota,Neocallimastigomycetes,Neocallimastix
+terrestrial,2767002,Neocallimastix lanati (nom. inval.),GCA_016946835.1,Neocallimastigomycota,Neocallimastigomycetes,Neocallimastix
+terrestrial,3108450,Neocallimastix sp. 'constans',GCA_050613775.1,Neocallimastigomycota,Neocallimastigomycetes,Neocallimastix
+terrestrial,1987568,Pecoramyces ruminantium,GCA_000412615.1,Neocallimastigomycota,Neocallimastigomycetes,Pecoramyces
+terrestrial,1754191,Piromyces finnis,GCA_002104945.1,Neocallimastigomycota,Neocallimastigomycetes,Piromyces
+terrestrial,45796,Piromyces sp.,GCA_027248725.1,Neocallimastigomycota,Neocallimastigomycetes,Piromyces
+terrestrial,73868,Piromyces sp. E2,GCA_002157105.1,Neocallimastigomycota,Neocallimastigomycetes,Piromyces
+terrestrial,278681,Olpidium bornovanus,GCA_017911155.1,Olpidiomycota,Olpidiomycetes,Olpidium
+terrestrial,1246581,Paramicrosporidium saccamoebae,GCA_002794465.1,Rozellomycota,NA,Paramicrosporidium
+terrestrial,988480,Rozella allomycis CSF55,GCA_003614725.1,Rozellomycota,NA,Rozella
+terrestrial,2109901,Amoeboradix gromovi,GCA_018985225.1,Sanchytriomycota,Sanchytriomycetes,Amoeboradix
+terrestrial,2020955,Sanchytrium tribonematis,GCA_018985235.1,Sanchytriomycota,Sanchytriomycetes,Sanchytrium
+terrestrial,1172177,Acaulopage tetraceros,GCA_004114255.1,Zoopagomycota,Zoopagomycetes,Acaulopage
+terrestrial,2082957,Cochlonema odontosperma,GCA_004114315.1,Zoopagomycota,Zoopagomycetes,Cochlonema
+terrestrial,1907219,Piptocephalis cylindrospora,GCA_003614145.1,Zoopagomycota,Zoopagomycetes,Piptocephalis
+terrestrial,1286916,Piptocephalis tieghemiana,GCA_025603285.1,Zoopagomycota,Zoopagomycetes,Piptocephalis
+terrestrial,2059718,Stylopage hadra,GCA_005111325.1,Zoopagomycota,Zoopagomycetes,Stylopage
+terrestrial,1851187,Syncephalis fuscata,GCA_025786725.1,Zoopagomycota,Zoopagomycetes,Syncephalis
+terrestrial,1851185,Syncephalis plumigaleata,GCA_025201365.1,Zoopagomycota,Zoopagomycetes,Syncephalis
+terrestrial,1712513,Syncephalis pseudoplumigaleata,GCA_003614755.1,Zoopagomycota,Zoopagomycetes,Syncephalis
+terrestrial,78915,Thamnocephalis sphaerospora,GCA_003614735.1,Zoopagomycota,Zoopagomycetes,Thamnocephalis
+terrestrial,2364153,Zoopage sp. CT-All,GCA_004114245.1,Zoopagomycota,Zoopagomycetes,Zoopage
+terrestrial,78907,Zoophagus insidians,GCA_004114325.1,Zoopagomycota,Zoopagomycetes,Zoophagus
